@@ -142,3 +142,47 @@ def analyze_cluster_types(clusters):
             
     return structure_counts
 
+import matplotlib.pyplot as plt
+
+def analyze_positions(root):
+    if not root or len(root) < 2:
+        return None, None
+    return root[0], root[-1]
+
+def get_sonority_value(char):
+    char = char.lower()
+    scores = {
+        'p': 1, 't': 1, 'k': 1, 'b': 1, 'd': 1, 'g': 1,
+        'f': 2, 's': 2, 'š': 2, 'z': 2,
+        'm': 3, 'n': 3,
+        'l': 4, 'r': 4,
+        'a': 5, 'e': 5, 'i': 5, 'o': 5, 'u': 5
+    }
+    return scores.get(char, 0)
+
+def analyze_sonority_slope(clusters):
+    slopes = {"Absteigend": 0, "Aufsteigend": 0, "Plateau": 0}
+    for c in clusters:
+        if len(c) >= 2:
+            v1 = get_sonority_value(c[0])
+            v2 = get_sonority_value(c[1])
+            if v1 > v2:
+                slopes["Absteigend"] += 1
+            elif v1 < v2:
+                slopes["Aufsteigend"] += 1
+            else:
+                slopes["Plateau"] += 1
+    return slopes
+
+def plot_phonetic_distribution(data_dict, title, filename):
+    if not data_dict:
+        return
+    plt.figure(figsize=(10, 6))
+    labels = list(data_dict.keys())
+    values = list(data_dict.values())
+    plt.bar(labels, values, color='skyblue')
+    plt.title(title)
+    plt.xticks(rotation=45)
+    plt.tight_layout()
+    plt.savefig(f"output/{filename}.png")
+    plt.close()

@@ -10,8 +10,11 @@ from src.linguistics import (
     get_root_vowel, 
     analyze_phonetic_classes, 
     analyze_positions, 
-    analyze_cluster_types
+    analyze_cluster_types,
+    get_sonority_value,
+    analyze_sonority_slope
 )
+
 from src.visualizer import (plot_vowel_correlation, plot_phonetic_distribution)
 
 

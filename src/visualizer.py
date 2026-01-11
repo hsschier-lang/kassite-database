@@ -60,3 +60,23 @@ def plot_vowel_correlation(correlation_counts, filename):
     
     plt.savefig(f"output/{filename}.png")
     plt.close()
+    
+def plot_phonetic_distribution(data_dict, title, filename):
+    """Erstellt ein Balkendiagramm und speichert es als PNG."""
+    if not data_dict:
+        return
+        
+    plt.figure(figsize=(10, 6))
+    labels = list(data_dict.keys())
+    values = list(data_dict.values())
+    
+    plt.bar(labels, values, color='skyblue')
+    plt.title(title)
+    plt.xlabel('Kategorie')
+    plt.ylabel('Häufigkeit')
+    plt.xticks(rotation=45)
+    plt.tight_layout()
+    
+    plt.savefig(f"output/{filename}.png")
+    plt.close()
+    print(f"[INFO] Grafik '{filename}.png' wurde gespeichert.")

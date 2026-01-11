@@ -1,12 +1,4 @@
-# Ignoriere die Datenbanken (die JSON-Dateien)
-*.json
-
-# Ignoriere die gesamte virtuelle Umgebung (sehr wichtig!)
 .venv/
-pyvenv.cfg
-
-# Ignoriere VS Code Einstellungen
-.vscode/
-
-# Ignoriere Python Cache
 __pycache__/
+.DS_Store
+output/*.png
