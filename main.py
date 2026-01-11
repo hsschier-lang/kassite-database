@@ -1,5 +1,5 @@
 from src.data_handler import load_database, save_database
-from src.linguistics import analyze_theophoric_elements, isolate_stems, split_stem_suffix, get_consonant_clusters, get_root_vowel, analyze_phonetic_classes
+from src.linguistics import analyze_theophoric_elements, isolate_stems, split_stem_suffix, get_consonant_clusters, get_root_vowel, analyze_phonetic_classes, analyze_positions
 
 
 def main():
@@ -139,7 +139,33 @@ def main():
     for label, count in class_counts.most_common():
         print(f"{label:<15} | {count}")
     
+    starts = []
+    ends = []
+    
+    
+    for entry in db:
+        root = entry.get('root')
+        if root:
+            res_start, res_end = analyze_positions(root)
+            if res_start:
+                starts.append(res_start)
+            if res_end:
+                ends.append(res_end)
 
+    
+    start_counts = Counter(starts)
+    end_counts = Counter(ends)
+
+    print("\n--- Phonetik: Bevorzugte Anlaute (Wurzelbeginn) ---")
+    if not starts:
+        print("Keine Daten gefunden. Überprüfe, ob entry['root'] gespeichert wird!")
+    else:
+        for label, count in start_counts.most_common():
+            print(f"{label:<15} | {count}")
+
+    print("\n--- Phonetik: Bevorzugte Auslaute (Wurzelende) ---")
+    for label, count in end_counts.most_common():
+        print(f"{label:<15} | {count}")
 
 if __name__ == "__main__":
     main()

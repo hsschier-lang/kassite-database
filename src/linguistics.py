@@ -94,3 +94,30 @@ def analyze_phonetic_classes(text):
             if char in chars:
                 found_classes.append(label)
         return found_classes
+    
+def analyze_positions(root):
+    if not root or not isinstance(root, str):
+        return None, None
+    
+    
+    clean_root = "".join(filter(str.isalpha, root))
+    
+    if len(clean_root) == 0:
+        return None, None
+
+    classes = {
+        'Labiale': 'pbmf',
+        'Dentale': 'tdnsz',
+        'Velare': 'kgḫx',
+        'Sibilanten': 'šsž'
+    }
+    
+    def get_class(char):
+        c = char.lower()
+        for label, chars in classes.items():
+            if c in chars:
+                return label
+        return "Vokal/Sonstige"
+
+    
+    return get_class(clean_root[0]), get_class(clean_root[-1])
