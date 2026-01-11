@@ -1,4 +1,5 @@
 import os
+from collections import Counter
 if not os.path.exists('output'):
     os.makedirs('output')
 from src.data_handler import load_database, save_database
@@ -12,7 +13,7 @@ from src.linguistics import (
     analyze_positions, 
     analyze_cluster_types,
     get_sonority_value,
-    analyze_sonority_slope
+    analyze_sonority_slope, discover_suffixes, split_kassite_morphemes
 )
 
 from src.visualizer import (plot_vowel_correlation, plot_phonetic_distribution)
@@ -212,5 +213,29 @@ def main():
         percentage = (count / len(structures)) * 100
         print(f"{s:<20} | {count:>3} ({percentage:.1f}%)")
         
+    save_database(db, "data/kassite_names_db_enriched.json")
+    
+    print("\n[SUCCESS] Alle Analysedaten (Roots, Suffixe, Cluster) wurden dauerhaft gespeichert.")
+
+    all_names = [e.get('transcription') for e in db if e.get('transcription')]
+    
+    found_endings_stats = discover_suffixes(all_names)
+    auto_suffixes = [suff for suff, count in found_endings_stats.items() if count >= 5]
+    
+    print(f"\n--- Automatisch entdeckte Suffix-Kandidaten: {len(auto_suffixes)} ---")
+    print(", ".join(auto_suffixes))
+    
+    print("Starte Zerlegung der Namen in Wurzel + Suffix...")
+    
+    for entry in db:
+        name = entry.get('transcription')
+        if name: 
+            root_morph, suffix_morph = split_kassite_morphemes(name, custom_suffixes=auto_suffixes)
+            
+            entry['morpheme_root'] = root_morph
+            entry['morpheme_suffix'] = suffix_morph
+            
+    save_database(db, "data/kassite_names_db_enriched.json")
+    print("[SUCCESS] Morphem-Analyse abgeschlossen und gespeichert.")
 if __name__ == "__main__":
     main()

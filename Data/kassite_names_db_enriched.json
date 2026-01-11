@@ -10,7 +10,9 @@
             "i"
         ],
         "structure": "CVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "ma",
+        "morpheme_suffix": "li"
     },
     {
         "transcription": "alzibadar",
@@ -28,7 +30,9 @@
             "r"
         ],
         "structure": "VCCVCVCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "alzibad",
+        "morpheme_suffix": "ar"
     },
     {
         "transcription": "bur",
@@ -40,7 +44,9 @@
             "r"
         ],
         "structure": "CVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "bur",
+        "morpheme_suffix": null
     },
     {
         "transcription": "Albadi",
@@ -55,7 +61,9 @@
             "i"
         ],
         "structure": "VCCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Alba",
+        "morpheme_suffix": "di"
     },
     {
         "transcription": "Ališbi/Ališpi",
@@ -77,7 +85,9 @@
             "i"
         ],
         "structure": "VCVCCV0VCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Ališbi/Ališpi",
+        "morpheme_suffix": null
     },
     {
         "transcription": "Alsa",
@@ -90,7 +100,9 @@
             "a"
         ],
         "structure": "VCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Alsa",
+        "morpheme_suffix": null
     },
     {
         "transcription": "Alzibu",
@@ -105,7 +117,9 @@
             "u"
         ],
         "structure": "VCCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Alz",
+        "morpheme_suffix": "ibu"
     },
     {
         "transcription": "šuzianna",
@@ -122,7 +136,9 @@
             "a"
         ],
         "structure": "CVCVVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "šuzian",
+        "morpheme_suffix": "na"
     },
     {
         "transcription": "Ašriqa",
@@ -137,7 +153,9 @@
             "a"
         ],
         "structure": "VCCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Ašriqa",
+        "morpheme_suffix": null
     },
     {
         "transcription": "Bugaš",
@@ -155,7 +173,9 @@
             "Bugaš"
         ],
         "god_position": "Anfang",
-        "isolated_stem": "Unebkannt"
+        "isolated_stem": "Unebkannt",
+        "morpheme_root": "B",
+        "morpheme_suffix": "ugaš"
     },
     {
         "transcription": "Burna-Buriaš",
@@ -179,7 +199,11 @@
             "Buriaš"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Burna"
+        "isolated_stem": "Burna",
+        "root": "Burn",
+        "suffix": "a",
+        "morpheme_root": "Burna-Buri",
+        "morpheme_suffix": "aš"
     },
     {
         "transcription": "Guzarzar-Bugaš",
@@ -205,7 +229,11 @@
             "Bugaš"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Guzarzar"
+        "isolated_stem": "Guzarzar",
+        "root": "Guzarzar",
+        "suffix": "",
+        "morpheme_root": "Guzarzar-B",
+        "morpheme_suffix": "ugaš"
     },
     {
         "transcription": "Bunāya",
@@ -220,7 +248,9 @@
             "a"
         ],
         "structure": "CVCVVV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Bunā",
+        "morpheme_suffix": "ya"
     },
     {
         "transcription": "Bunna-...",
@@ -237,7 +267,9 @@
             "."
         ],
         "structure": "CVCCV000",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Bunna-...",
+        "morpheme_suffix": null
     },
     {
         "transcription": "Bunna-[DN]",
@@ -255,7 +287,9 @@
             "]"
         ],
         "structure": "CVCCV0CC0",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Bunna-[DN]",
+        "morpheme_suffix": null
     },
     {
         "transcription": "Bunnanu",
@@ -271,7 +305,9 @@
             "u"
         ],
         "structure": "CVCCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Bunnanu",
+        "morpheme_suffix": null
     },
     {
         "transcription": "Bunnaša",
@@ -287,7 +323,9 @@
             "a"
         ],
         "structure": "CVCCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Bunnaša",
+        "morpheme_suffix": null
     },
     {
         "transcription": "Bunnatu?",
@@ -304,7 +342,9 @@
             "?"
         ],
         "structure": "CVCCVCV0",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Bunnatu?",
+        "morpheme_suffix": null
     },
     {
         "transcription": "Bunnēʾa",
@@ -320,7 +360,9 @@
             "a"
         ],
         "structure": "CVCCV0V",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Bunnēʾa",
+        "morpheme_suffix": null
     },
     {
         "transcription": "Bunni",
@@ -334,7 +376,9 @@
             "i"
         ],
         "structure": "CVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Bun",
+        "morpheme_suffix": "ni"
     },
     {
         "transcription": "Bunniya",
@@ -350,7 +394,9 @@
             "a"
         ],
         "structure": "CVCCVVV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Bunn",
+        "morpheme_suffix": "iya"
     },
     {
         "transcription": "Bunnunu",
@@ -366,7 +412,9 @@
             "u"
         ],
         "structure": "CVCCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Bunnunu",
+        "morpheme_suffix": null
     },
     {
         "transcription": "Bunnunūʾa",
@@ -384,7 +432,9 @@
             "a"
         ],
         "structure": "CVCCVCV0V",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Bunnunūʾa",
+        "morpheme_suffix": null
     },
     {
         "transcription": "Bunnūtu",
@@ -400,7 +450,9 @@
             "u"
         ],
         "structure": "CVCCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Bunnū",
+        "morpheme_suffix": "tu"
     },
     {
         "transcription": "Bunzuʾu",
@@ -416,7 +468,9 @@
             "u"
         ],
         "structure": "CVCCV0V",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Bunzuʾu",
+        "morpheme_suffix": null
     },
     {
         "transcription": "Bur-Sîn",
@@ -431,7 +485,9 @@
             "n"
         ],
         "structure": "CVCCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Bur-Sîn",
+        "morpheme_suffix": null
     },
     {
         "transcription": "Burame",
@@ -446,7 +502,9 @@
             "e"
         ],
         "structure": "CVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Bura",
+        "morpheme_suffix": "me"
     },
     {
         "transcription": "Burra-Alban",
@@ -465,7 +523,9 @@
             "n"
         ],
         "structure": "CVCCVVCCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Burra-Al",
+        "morpheme_suffix": "ban"
     },
     {
         "transcription": "Burra-Marduk",
@@ -485,7 +545,9 @@
             "k"
         ],
         "structure": "CVCCVCVCCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Burra-Ma",
+        "morpheme_suffix": "rduk"
     },
     {
         "transcription": "Burra-mašḫu",
@@ -504,7 +566,9 @@
             "u"
         ],
         "structure": "CVCCVCVC0V",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Burra-m",
+        "morpheme_suffix": "ašḫu"
     },
     {
         "transcription": "Burra-Saḫ",
@@ -522,11 +586,15 @@
         ],
         "structure": "CVCCVCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Burra"
+        "isolated_stem": "Burra",
+        "root": "Burr",
+        "suffix": "a",
+        "morpheme_root": "Burra",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "Burra-Tišpak",
@@ -546,7 +614,9 @@
             "k"
         ],
         "structure": "CVCCVCVCCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Burra-Tišpak",
+        "morpheme_suffix": null
     },
     {
         "transcription": "Burra/i-Laguda",
@@ -568,7 +638,9 @@
             "a"
         ],
         "structure": "CVCCV0VCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Burra/i-Lagu",
+        "morpheme_suffix": "da"
     },
     {
         "transcription": "Burra/Purra-Sana/i",
@@ -594,7 +666,9 @@
             "i"
         ],
         "structure": "CVCCV0CVCCVCVCV0V",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Burra/Purra-Sana/i",
+        "morpheme_suffix": null
     },
     {
         "transcription": "Burruqu",
@@ -610,7 +684,9 @@
             "u"
         ],
         "structure": "CVCCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Burruqu",
+        "morpheme_suffix": null
     },
     {
         "transcription": "Burte-šugab",
@@ -634,7 +710,11 @@
             "Sugab"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Burte"
+        "isolated_stem": "Burte",
+        "root": "Burt",
+        "suffix": "e",
+        "morpheme_root": "Burte-š",
+        "morpheme_suffix": "ugab"
     },
     {
         "transcription": "Dābibī",
@@ -649,7 +729,9 @@
             "ī"
         ],
         "structure": "CVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Dābibī",
+        "morpheme_suffix": null
     },
     {
         "transcription": "Dimaḫdi-Nergal",
@@ -671,7 +753,9 @@
             "l"
         ],
         "structure": "CVCV0CVCVCCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Dimaḫdi-Nergal",
+        "morpheme_suffix": null
     },
     {
         "transcription": "Dimaḫdi-Uraš",
@@ -691,7 +775,9 @@
             "š"
         ],
         "structure": "CVCV0CVVCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Dimaḫdi-Ur",
+        "morpheme_suffix": "aš"
     },
     {
         "transcription": "Erība-šuqamuna",
@@ -713,7 +799,9 @@
             "a"
         ],
         "structure": "VCVCVCVCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Erība-šuqa",
+        "morpheme_suffix": "muna"
     },
     {
         "transcription": "Gab-Enlil",
@@ -734,7 +822,11 @@
             "enlil"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Gab"
+        "isolated_stem": "Gab",
+        "root": "Gab",
+        "suffix": "",
+        "morpheme_root": "Gab-E",
+        "morpheme_suffix": "nlil"
     },
     {
         "transcription": "Gab-Martaš",
@@ -752,7 +844,9 @@
             "š"
         ],
         "structure": "CVCCVCCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Gab-Mar",
+        "morpheme_suffix": "taš"
     },
     {
         "transcription": "Gabbaša-inbu",
@@ -772,7 +866,9 @@
             "u"
         ],
         "structure": "CVCCVCVVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Gabbaša-in",
+        "morpheme_suffix": "bu"
     },
     {
         "transcription": "Gabbi-ša-Akkade",
@@ -794,7 +890,9 @@
             "e"
         ],
         "structure": "CVCCVCVVCCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Gabbi-ša-Akkade",
+        "morpheme_suffix": null
     },
     {
         "transcription": "Gimil-šamaš",
@@ -813,7 +911,9 @@
             "š"
         ],
         "structure": "CVCVCCVCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Gimil-ša",
+        "morpheme_suffix": "maš"
     },
     {
         "transcription": "Guzar-AN",
@@ -829,7 +929,9 @@
             "n"
         ],
         "structure": "CVCVCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Guzar-",
+        "morpheme_suffix": "an"
     },
     {
         "transcription": "ḫaḫ-šugab",
@@ -851,7 +953,11 @@
             "Sugab"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Ḫaḫ"
+        "isolated_stem": "Ḫaḫ",
+        "root": "Ḫaḫ",
+        "suffix": "",
+        "morpheme_root": "ḫaḫ-š",
+        "morpheme_suffix": "ugab"
     },
     {
         "transcription": "ḫaḫ(a)-saḫ",
@@ -870,11 +976,15 @@
         ],
         "structure": "0V00V0CV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Ḫaḫ"
+        "isolated_stem": "Ḫaḫ",
+        "root": "Ḫaḫ",
+        "suffix": "",
+        "morpheme_root": "ḫaḫ(a)",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "Ḫaḫia",
@@ -888,7 +998,9 @@
             "a"
         ],
         "structure": "0V0VV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Ḫaḫia",
+        "morpheme_suffix": null
     },
     {
         "transcription": "Ḫašmar",
@@ -903,7 +1015,9 @@
             "r"
         ],
         "structure": "0VCCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Ḫašm",
+        "morpheme_suffix": "ar"
     },
     {
         "transcription": "ḫašmar-galdu",
@@ -923,7 +1037,9 @@
             "u"
         ],
         "structure": "0VCCVCCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "ḫašmar-gal",
+        "morpheme_suffix": "du"
     },
     {
         "transcription": "Ḫassiyašu",
@@ -941,7 +1057,9 @@
             "u"
         ],
         "structure": "0VCCVVVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Ḫassiy",
+        "morpheme_suffix": "ašu"
     },
     {
         "transcription": "ḫira-zana",
@@ -958,7 +1076,9 @@
             "a"
         ],
         "structure": "0VCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "ḫira-",
+        "morpheme_suffix": "zana"
     },
     {
         "transcription": "ḫudi-jazi",
@@ -975,7 +1095,9 @@
             "i"
         ],
         "structure": "0VCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "ḫudi-ja",
+        "morpheme_suffix": "zi"
     },
     {
         "transcription": "ḫulālu",
@@ -990,7 +1112,9 @@
             "u"
         ],
         "structure": "0VCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "ḫulā",
+        "morpheme_suffix": "lu"
     },
     {
         "transcription": "Ḫummurtu",
@@ -1007,7 +1131,9 @@
             "u"
         ],
         "structure": "0VCCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Ḫummur",
+        "morpheme_suffix": "tu"
     },
     {
         "transcription": "ḫumurbija-saḫ",
@@ -1029,11 +1155,15 @@
         ],
         "structure": "0VCVCCVCVCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Ḫumurbija"
+        "isolated_stem": "Ḫumurbija",
+        "root": "Ḫumurbij",
+        "suffix": "a",
+        "morpheme_root": "ḫumurbija",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "šuqamuna",
@@ -1050,7 +1180,9 @@
             "a"
         ],
         "structure": "CVCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "šuqa",
+        "morpheme_suffix": "muna"
     },
     {
         "transcription": "ḫura-zana",
@@ -1067,7 +1199,9 @@
             "a"
         ],
         "structure": "0VCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "ḫura-",
+        "morpheme_suffix": "zana"
     },
     {
         "transcription": "Ikkukku",
@@ -1083,7 +1217,9 @@
             "u"
         ],
         "structure": "VCCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Ikkukku",
+        "morpheme_suffix": null
     },
     {
         "transcription": "Ilī-ašriqa(š)",
@@ -1104,7 +1240,9 @@
             ")"
         ],
         "structure": "VCVVCCVCV0C0",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Ilī-ašriqa(š)",
+        "morpheme_suffix": null
     },
     {
         "transcription": "Innibu",
@@ -1119,7 +1257,9 @@
             "u"
         ],
         "structure": "VCCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Inn",
+        "morpheme_suffix": "ibu"
     },
     {
         "transcription": "Ipša-ḫalu",
@@ -1136,7 +1276,9 @@
             "u"
         ],
         "structure": "VCCV0VCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Ipša-ḫa",
+        "morpheme_suffix": "lu"
     },
     {
         "transcription": "Ipšu",
@@ -1149,7 +1291,9 @@
             "u"
         ],
         "structure": "VCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Ip",
+        "morpheme_suffix": "šu"
     },
     {
         "transcription": "Išbu-ula",
@@ -1165,7 +1309,9 @@
             "a"
         ],
         "structure": "VCCVVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Išbu-",
+        "morpheme_suffix": "ula"
     },
     {
         "transcription": "Išubi",
@@ -1179,7 +1325,9 @@
             "i"
         ],
         "structure": "VCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Išu",
+        "morpheme_suffix": "bi"
     },
     {
         "transcription": "Ittiša-aḫbut",
@@ -1199,7 +1347,9 @@
             "t"
         ],
         "structure": "VCCVCVV0CVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Ittiša-aḫbut",
+        "morpheme_suffix": null
     },
     {
         "transcription": "Izbul-mašḫu",
@@ -1218,7 +1368,9 @@
             "u"
         ],
         "structure": "VCCVCCVC0V",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Izbul-m",
+        "morpheme_suffix": "ašḫu"
     },
     {
         "transcription": "Izkur-šuqamuna",
@@ -1240,7 +1392,9 @@
             "a"
         ],
         "structure": "VCCVCCVCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Izkur-šuqa",
+        "morpheme_suffix": "muna"
     },
     {
         "transcription": "Kabru",
@@ -1254,7 +1408,9 @@
             "u"
         ],
         "structure": "CVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Kabru",
+        "morpheme_suffix": null
     },
     {
         "transcription": "Kadašman-...",
@@ -1274,7 +1430,9 @@
             "."
         ],
         "structure": "CVCVCCVC000",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Kadašman-...",
+        "morpheme_suffix": null
     },
     {
         "transcription": "Kadašman-Enlil",
@@ -1300,7 +1458,11 @@
             "enlil"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Kadašman"
+        "isolated_stem": "Kadašman",
+        "root": "Kadašman",
+        "suffix": "",
+        "morpheme_root": "Kadašman-E",
+        "morpheme_suffix": "nlil"
     },
     {
         "transcription": "Kadašman-Turgu",
@@ -1322,7 +1484,9 @@
             "u"
         ],
         "structure": "CVCVCCVCCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Kadašman-Turgu",
+        "morpheme_suffix": null
     },
     {
         "transcription": "kar-zi-x",
@@ -1337,7 +1501,9 @@
             "x"
         ],
         "structure": "CVCCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "kar-zi-x",
+        "morpheme_suffix": null
     },
     {
         "transcription": "Karak-saḫ",
@@ -1355,11 +1521,15 @@
         ],
         "structure": "CVCVCCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Karak"
+        "isolated_stem": "Karak",
+        "root": "Karak",
+        "suffix": "",
+        "morpheme_root": "Karak",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "Karzi-B/Marattaš",
@@ -1383,7 +1553,9 @@
             "š"
         ],
         "structure": "CVCCVC0CVCVCCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Karzi-B/Mara",
+        "morpheme_suffix": "ttaš"
     },
     {
         "transcription": "Karzi-Ban",
@@ -1400,7 +1572,9 @@
             "n"
         ],
         "structure": "CVCCVCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Karzi-",
+        "morpheme_suffix": "ban"
     },
     {
         "transcription": "Kašaakti",
@@ -1417,7 +1591,9 @@
             "i"
         ],
         "structure": "CVCVVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Kaša",
+        "morpheme_suffix": "akti"
     },
     {
         "transcription": "Kaššu",
@@ -1431,7 +1607,9 @@
             "u"
         ],
         "structure": "CVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Kaš",
+        "morpheme_suffix": "šu"
     },
     {
         "transcription": "Kašti-Ban",
@@ -1448,7 +1626,9 @@
             "n"
         ],
         "structure": "CVCCVCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Kašti-",
+        "morpheme_suffix": "ban"
     },
     {
         "transcription": "Kaštiliašu Kaštiljašu",
@@ -1478,7 +1658,9 @@
             "u"
         ],
         "structure": "CVCCVCVVCV0CVCCVCCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Kaštiliašu Kaštilj",
+        "morpheme_suffix": "ašu"
     },
     {
         "transcription": "Kaštilli",
@@ -1495,7 +1677,9 @@
             "i"
         ],
         "structure": "CVCCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Kaštil",
+        "morpheme_suffix": "li"
     },
     {
         "transcription": "Katar-iddina?",
@@ -1516,7 +1700,9 @@
             "?"
         ],
         "structure": "CVCVCVCCVCV0",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Katar-iddina?",
+        "morpheme_suffix": null
     },
     {
         "transcription": "Mē-Kamulla",
@@ -1534,7 +1720,9 @@
             "a"
         ],
         "structure": "CVCVCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Mē-Kamul",
+        "morpheme_suffix": "la"
     },
     {
         "transcription": "Kidin-Latarak",
@@ -1555,7 +1743,9 @@
             "k"
         ],
         "structure": "CVCVCCVCVCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Kidin-Latarak",
+        "morpheme_suffix": null
     },
     {
         "transcription": "Kidin-šumalija",
@@ -1577,7 +1767,9 @@
             "a"
         ],
         "structure": "CVCVCCVCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Kidin-šumalija",
+        "morpheme_suffix": null
     },
     {
         "transcription": "Kuri-jāni",
@@ -1594,7 +1786,9 @@
             "i"
         ],
         "structure": "CVCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Kuri-jā",
+        "morpheme_suffix": "ni"
     },
     {
         "transcription": "Kilam/ndi-Ubriaš",
@@ -1618,7 +1812,9 @@
             "š"
         ],
         "structure": "CVCVC0CCVVCCVVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Kilam/ndi-Ubri",
+        "morpheme_suffix": "aš"
     },
     {
         "transcription": "Kilamdašu",
@@ -1636,7 +1832,9 @@
             "u"
         ],
         "structure": "CVCVCCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Kilamd",
+        "morpheme_suffix": "ašu"
     },
     {
         "transcription": "Kilamdi-ši-ḫu",
@@ -1656,7 +1854,9 @@
             "u"
         ],
         "structure": "CVCVCCVCV0V",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Kilamdi-ši-",
+        "morpheme_suffix": "ḫu"
     },
     {
         "transcription": "Kilamdu",
@@ -1672,7 +1872,9 @@
             "u"
         ],
         "structure": "CVCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Kilam",
+        "morpheme_suffix": "du"
     },
     {
         "transcription": "Kirsiga",
@@ -1688,7 +1890,9 @@
             "a"
         ],
         "structure": "CVCCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Kirsiga",
+        "morpheme_suffix": null
     },
     {
         "transcription": "Kirsu-mala",
@@ -1706,7 +1910,9 @@
             "a"
         ],
         "structure": "CVCCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Kirsu-m",
+        "morpheme_suffix": "ala"
     },
     {
         "transcription": "Kisi-maditu",
@@ -1725,7 +1931,9 @@
             "u"
         ],
         "structure": "CVCVCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Kisi-madi",
+        "morpheme_suffix": "tu"
     },
     {
         "transcription": "Kubšija-saḫ",
@@ -1745,11 +1953,15 @@
         ],
         "structure": "CVCCVCVCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Kubšija"
+        "isolated_stem": "Kubšija",
+        "root": "Kubšij",
+        "suffix": "a",
+        "morpheme_root": "Kubšija",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "Kukurmaš",
@@ -1766,7 +1978,9 @@
             "š"
         ],
         "structure": "CVCVCCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Kukur",
+        "morpheme_suffix": "maš"
     },
     {
         "transcription": "Kunindi-Bugaš",
@@ -1791,7 +2005,11 @@
             "Bugaš"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Kunindi"
+        "isolated_stem": "Kunindi",
+        "root": "Kunind",
+        "suffix": "i",
+        "morpheme_root": "Kunindi-B",
+        "morpheme_suffix": "ugaš"
     },
     {
         "transcription": "KUR-ḫu-ni-ti",
@@ -1809,7 +2027,9 @@
             "i"
         ],
         "structure": "CVC0VCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "KUR-ḫu-ni-",
+        "morpheme_suffix": "ti"
     },
     {
         "transcription": "Kurigalzu",
@@ -1827,7 +2047,9 @@
             "u"
         ],
         "structure": "CVCVCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Kurig",
+        "morpheme_suffix": "alzu"
     },
     {
         "transcription": "Kurušni",
@@ -1843,7 +2065,9 @@
             "i"
         ],
         "structure": "CVCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Kuruš",
+        "morpheme_suffix": "ni"
     },
     {
         "transcription": "Kuššija",
@@ -1859,7 +2083,9 @@
             "a"
         ],
         "structure": "CVCCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Kuššija",
+        "morpheme_suffix": null
     },
     {
         "transcription": "Latarak-Bāni",
@@ -1879,7 +2105,9 @@
             "i"
         ],
         "structure": "CVCVCVCCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Latarak-Bā",
+        "morpheme_suffix": "ni"
     },
     {
         "transcription": "Madmi-šuḫ",
@@ -1896,7 +2124,9 @@
             "ḫ"
         ],
         "structure": "CVCCVCV0",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Madmi-šuḫ",
+        "morpheme_suffix": null
     },
     {
         "transcription": "Maktari-šaḫ",
@@ -1916,11 +2146,15 @@
         ],
         "structure": "CVCCVCVCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Maktarišaḫ"
+        "isolated_stem": "Maktarišaḫ",
+        "root": "Maktarišaḫ",
+        "suffix": "",
+        "morpheme_root": "Maktari",
+        "morpheme_suffix": "-šaḫ"
     },
     {
         "transcription": "Mē-Šumeliya",
@@ -1939,7 +2173,9 @@
             "a"
         ],
         "structure": "CVCVCVCVVV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Mē-Šumel",
+        "morpheme_suffix": "iya"
     },
     {
         "transcription": "Mē-Šuqamuna",
@@ -1958,7 +2194,9 @@
             "a"
         ],
         "structure": "CVCVCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Mē-Šuqa",
+        "morpheme_suffix": "muna"
     },
     {
         "transcription": "Mediljašu/Mitlijašu",
@@ -1986,7 +2224,9 @@
             "u"
         ],
         "structure": "CVCVCCVCV0CVCCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Mediljašu/Mitlij",
+        "morpheme_suffix": "ašu"
     },
     {
         "transcription": "Meḫulpi-x",
@@ -2003,7 +2243,9 @@
             "x"
         ],
         "structure": "CV0VCCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Meḫulpi-x",
+        "morpheme_suffix": null
     },
     {
         "transcription": "Meli-Šipak",
@@ -2021,7 +2263,9 @@
             "k"
         ],
         "structure": "CVCVCVCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Meli-Šipak",
+        "morpheme_suffix": null
     },
     {
         "transcription": "Menaḫzi",
@@ -2037,7 +2281,9 @@
             "i"
         ],
         "structure": "CVCV0CV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Menaḫ",
+        "morpheme_suffix": "zi"
     },
     {
         "transcription": "Mīnâ-ēgu-[...]",
@@ -2058,7 +2304,9 @@
             "]"
         ],
         "structure": "CVCVVCV00000",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Mīnâ-ēgu-[...]",
+        "morpheme_suffix": null
     },
     {
         "transcription": "Mīnâ-ēgu-ana-ili",
@@ -2080,7 +2328,9 @@
             "i"
         ],
         "structure": "CVCVVCVVCVVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Mīnâ-ēgu-ana-i",
+        "morpheme_suffix": "li"
     },
     {
         "transcription": "Mīnâ-ēpuš-ila",
@@ -2100,7 +2350,9 @@
             "a"
         ],
         "structure": "CVCVVCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Mīnâ-ēpuš-i",
+        "morpheme_suffix": "la"
     },
     {
         "transcription": "Muššini-saḫ",
@@ -2120,11 +2372,15 @@
         ],
         "structure": "CVCCVCVCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Muššini"
+        "isolated_stem": "Muššini",
+        "root": "Muššin",
+        "suffix": "i",
+        "morpheme_root": "Muššini",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "Nagim-Saḫ",
@@ -2142,11 +2398,15 @@
         ],
         "structure": "CVCVCCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Nagim"
+        "isolated_stem": "Nagim",
+        "root": "Nagim",
+        "suffix": "",
+        "morpheme_root": "Nagim",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "Nagim-saḫ",
@@ -2164,11 +2424,15 @@
         ],
         "structure": "CVCVCCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Nagim"
+        "isolated_stem": "Nagim",
+        "root": "Nagim",
+        "suffix": "",
+        "morpheme_root": "Nagim",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "Naḫzi-Marduk",
@@ -2188,7 +2452,9 @@
             "k"
         ],
         "structure": "CV0CVCVCCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Naḫzi-Ma",
+        "morpheme_suffix": "rduk"
     },
     {
         "transcription": "Naḫzutu",
@@ -2204,7 +2470,9 @@
             "u"
         ],
         "structure": "CV0CVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Naḫzu",
+        "morpheme_suffix": "tu"
     },
     {
         "transcription": "Nazi-Maruttaš",
@@ -2229,7 +2497,11 @@
             "Maruttaš"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Nazi"
+        "isolated_stem": "Nazi",
+        "root": "Naz",
+        "suffix": "i",
+        "morpheme_root": "Nazi-Maru",
+        "morpheme_suffix": "ttaš"
     },
     {
         "transcription": "Nimgirab-[GN]",
@@ -2250,7 +2522,9 @@
             "]"
         ],
         "structure": "CVCCVCVC0CC0",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Nimgirab-[GN]",
+        "morpheme_suffix": null
     },
     {
         "transcription": "Nimgirābu",
@@ -2268,7 +2542,9 @@
             "u"
         ],
         "structure": "CVCCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Nimgirā",
+        "morpheme_suffix": "bu"
     },
     {
         "transcription": "Nunakte",
@@ -2284,7 +2560,9 @@
             "e"
         ],
         "structure": "CVCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Nunak",
+        "morpheme_suffix": "te"
     },
     {
         "transcription": "Nuriki?",
@@ -2300,7 +2578,9 @@
             "?"
         ],
         "structure": "CVCVCV0",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Nuriki?",
+        "morpheme_suffix": null
     },
     {
         "transcription": "Pungulu",
@@ -2316,7 +2596,9 @@
             "u"
         ],
         "structure": "CVCCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Pungu",
+        "morpheme_suffix": "lu"
     },
     {
         "transcription": "Qunnu",
@@ -2330,7 +2612,9 @@
             "u"
         ],
         "structure": "CVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Qunnu",
+        "morpheme_suffix": null
     },
     {
         "transcription": "Radbaš",
@@ -2345,7 +2629,9 @@
             "š"
         ],
         "structure": "CVCCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Radb",
+        "morpheme_suffix": "aš"
     },
     {
         "transcription": "Sabiḫari",
@@ -2362,7 +2648,9 @@
             "i"
         ],
         "structure": "CVCV0VCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Sabiḫa",
+        "morpheme_suffix": "ri"
     },
     {
         "transcription": "Sad-abujatu",
@@ -2381,7 +2669,9 @@
             "u"
         ],
         "structure": "CVCVCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Sad-abuja",
+        "morpheme_suffix": "tu"
     },
     {
         "transcription": "šad-ḫumurti",
@@ -2400,7 +2690,9 @@
             "i"
         ],
         "structure": "CVC0VCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "šad-ḫumur",
+        "morpheme_suffix": "ti"
     },
     {
         "transcription": "šadda-gan-im-ti",
@@ -2421,7 +2713,9 @@
             "i"
         ],
         "structure": "CVCCVCVCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "šadda-gan-im-",
+        "morpheme_suffix": "ti"
     },
     {
         "transcription": "šaddagme",
@@ -2438,7 +2732,9 @@
             "e"
         ],
         "structure": "CVCCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "šaddag",
+        "morpheme_suffix": "me"
     },
     {
         "transcription": "šaddaḫaš",
@@ -2455,7 +2751,9 @@
             "š"
         ],
         "structure": "CVCCV0VC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "šaddaḫ",
+        "morpheme_suffix": "aš"
     },
     {
         "transcription": "šadmezi",
@@ -2471,7 +2769,9 @@
             "i"
         ],
         "structure": "CVCCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "šadme",
+        "morpheme_suffix": "zi"
     },
     {
         "transcription": "Šagarakti",
@@ -2489,7 +2789,9 @@
             "i"
         ],
         "structure": "CVCVCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Šagar",
+        "morpheme_suffix": "akti"
     },
     {
         "transcription": "Šagarakti-Šuriaš",
@@ -2518,7 +2820,11 @@
             "suriaš"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Šagarakti"
+        "isolated_stem": "Šagarakti",
+        "root": "Šagarakt",
+        "suffix": "i",
+        "morpheme_root": "Šagarakti-Šuri",
+        "morpheme_suffix": "aš"
     },
     {
         "transcription": "šagarēʾa",
@@ -2535,7 +2841,9 @@
             "a"
         ],
         "structure": "CVCVCV0V",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "šagarēʾa",
+        "morpheme_suffix": null
     },
     {
         "transcription": "Šagarūtu",
@@ -2552,7 +2860,9 @@
             "u"
         ],
         "structure": "CVCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Šagarū",
+        "morpheme_suffix": "tu"
     },
     {
         "transcription": "šara/i-Zana",
@@ -2571,7 +2881,9 @@
             "a"
         ],
         "structure": "CVCV0VCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "šara/i-",
+        "morpheme_suffix": "zana"
     },
     {
         "transcription": "šigadi-saḫ",
@@ -2590,11 +2902,15 @@
         ],
         "structure": "CVCVCVCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Šigadi"
+        "isolated_stem": "Šigadi",
+        "root": "Šigad",
+        "suffix": "i",
+        "morpheme_root": "šigadi",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "šigite-Sani",
@@ -2613,7 +2929,9 @@
             "i"
         ],
         "structure": "CVCVCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "šigite-Sa",
+        "morpheme_suffix": "ni"
     },
     {
         "transcription": "ṣilli-šudda",
@@ -2632,7 +2950,9 @@
             "a"
         ],
         "structure": "CVCCVCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "ṣilli-šud",
+        "morpheme_suffix": "da"
     },
     {
         "transcription": "šimdi-ši-ḫu",
@@ -2650,7 +2970,9 @@
             "u"
         ],
         "structure": "CVCCVCV0V",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "šimdi-ši-",
+        "morpheme_suffix": "ḫu"
     },
     {
         "transcription": "šindi-Enlil",
@@ -2673,7 +2995,11 @@
             "enlil"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Šindi"
+        "isolated_stem": "Šindi",
+        "root": "Šind",
+        "suffix": "i",
+        "morpheme_root": "šindi-E",
+        "morpheme_suffix": "nlil"
     },
     {
         "transcription": "šindi-šugab",
@@ -2697,7 +3023,11 @@
             "Sugab"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Šindi"
+        "isolated_stem": "Šindi",
+        "root": "Šind",
+        "suffix": "i",
+        "morpheme_root": "šindi-š",
+        "morpheme_suffix": "ugab"
     },
     {
         "transcription": "šira-ḫarbe",
@@ -2719,7 +3049,11 @@
             "Harbe"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Širaḫarbe"
+        "isolated_stem": "Širaḫarbe",
+        "root": "Širaḫarb",
+        "suffix": "e",
+        "morpheme_root": "šira-ḫ",
+        "morpheme_suffix": "arbe"
     },
     {
         "transcription": "Širištu",
@@ -2735,7 +3069,9 @@
             "u"
         ],
         "structure": "CVCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Širiš",
+        "morpheme_suffix": "tu"
     },
     {
         "transcription": "širni-šaḫ",
@@ -2753,11 +3089,15 @@
         ],
         "structure": "CVCCVCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Širnišaḫ"
+        "isolated_stem": "Širnišaḫ",
+        "root": "Širnišaḫ",
+        "suffix": "",
+        "morpheme_root": "širni",
+        "morpheme_suffix": "-šaḫ"
     },
     {
         "transcription": "Sirraya",
@@ -2773,7 +3113,9 @@
             "a"
         ],
         "structure": "CVCCVVV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Sirra",
+        "morpheme_suffix": "ya"
     },
     {
         "transcription": "Šubagīya",
@@ -2790,7 +3132,9 @@
             "a"
         ],
         "structure": "CVCVCVVV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Šubagī",
+        "morpheme_suffix": "ya"
     },
     {
         "transcription": "šudaḫ-x-",
@@ -2805,7 +3149,9 @@
             "x"
         ],
         "structure": "CVCV0C",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "šudaḫ-x-",
+        "morpheme_suffix": null
     },
     {
         "transcription": "Sugir-bunni",
@@ -2824,7 +3170,9 @@
             "i"
         ],
         "structure": "CVCVCCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Sugir-bun",
+        "morpheme_suffix": "ni"
     },
     {
         "transcription": "šuḫila",
@@ -2839,7 +3187,9 @@
             "a"
         ],
         "structure": "CV0VCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "šuḫi",
+        "morpheme_suffix": "la"
     },
     {
         "transcription": "šuḫurni",
@@ -2855,7 +3205,9 @@
             "i"
         ],
         "structure": "CV0VCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "šuḫur",
+        "morpheme_suffix": "ni"
     },
     {
         "transcription": "šummak-lā-[DN]",
@@ -2876,7 +3228,9 @@
             "]"
         ],
         "structure": "CVCCVCCV0CC0",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "šummak-lā-[DN]",
+        "morpheme_suffix": null
     },
     {
         "transcription": "šuri",
@@ -2889,7 +3243,9 @@
             "i"
         ],
         "structure": "CVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "šu",
+        "morpheme_suffix": "ri"
     },
     {
         "transcription": "Šurīḫa-īli",
@@ -2907,7 +3263,9 @@
             "i"
         ],
         "structure": "CVCV0VVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Šurīḫa-ī",
+        "morpheme_suffix": "li"
     },
     {
         "transcription": "Šurīḫa-Marduk",
@@ -2928,7 +3286,9 @@
             "k"
         ],
         "structure": "CVCV0VCVCCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Šurīḫa-Ma",
+        "morpheme_suffix": "rduk"
     },
     {
         "transcription": "Šutāpu",
@@ -2943,7 +3303,9 @@
             "u"
         ],
         "structure": "CVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Šutāpu",
+        "morpheme_suffix": null
     },
     {
         "transcription": "Tabšini-šaḫ",
@@ -2963,11 +3325,15 @@
         ],
         "structure": "CVCCVCVCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Tabšinišaḫ"
+        "isolated_stem": "Tabšinišaḫ",
+        "root": "Tabšinišaḫ",
+        "suffix": "",
+        "morpheme_root": "Tabšini",
+        "morpheme_suffix": "-šaḫ"
     },
     {
         "transcription": "Tamda/i-šaḫ",
@@ -2987,11 +3353,15 @@
         ],
         "structure": "CVCCV0VCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Tamda"
+        "isolated_stem": "Tamda",
+        "root": "Tamd",
+        "suffix": "a",
+        "morpheme_root": "Tamda/i",
+        "morpheme_suffix": "-šaḫ"
     },
     {
         "transcription": "Tamti-Ištaran",
@@ -3012,7 +3382,9 @@
             "n"
         ],
         "structure": "CVCCVVCCVCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Tamti-Išta",
+        "morpheme_suffix": "ran"
     },
     {
         "transcription": "Taramdi-šaḫ",
@@ -3032,11 +3404,15 @@
         ],
         "structure": "CVCVCCVCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Taramdišaḫ"
+        "isolated_stem": "Taramdišaḫ",
+        "root": "Taramdišaḫ",
+        "suffix": "",
+        "morpheme_root": "Taramdi",
+        "morpheme_suffix": "-šaḫ"
     },
     {
         "transcription": "Tarâmūtu",
@@ -3053,7 +3429,9 @@
             "u"
         ],
         "structure": "CVCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Tarâmū",
+        "morpheme_suffix": "tu"
     },
     {
         "transcription": "Tarâšūtu",
@@ -3070,7 +3448,9 @@
             "u"
         ],
         "structure": "CVCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Tarâšū",
+        "morpheme_suffix": "tu"
     },
     {
         "transcription": "Tari...",
@@ -3086,7 +3466,9 @@
             "."
         ],
         "structure": "CVCV000",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Tari...",
+        "morpheme_suffix": null
     },
     {
         "transcription": "Tarma-abu",
@@ -3103,7 +3485,9 @@
             "u"
         ],
         "structure": "CVCCVVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Tarma-",
+        "morpheme_suffix": "abu"
     },
     {
         "transcription": "Ulam-gadidi",
@@ -3122,7 +3506,9 @@
             "i"
         ],
         "structure": "VCVCCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Ulam-gadi",
+        "morpheme_suffix": "di"
     },
     {
         "transcription": "Tunami-Saḫ",
@@ -3141,11 +3527,15 @@
         ],
         "structure": "CVCVCVCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Tunami"
+        "isolated_stem": "Tunami",
+        "root": "Tunam",
+        "suffix": "i",
+        "morpheme_root": "Tunami",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "Ugēʾa",
@@ -3159,7 +3549,9 @@
             "a"
         ],
         "structure": "VCV0V",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Ugēʾa",
+        "morpheme_suffix": null
     },
     {
         "transcription": "Ula-Gindar",
@@ -3177,7 +3569,9 @@
             "r"
         ],
         "structure": "VCVCVCCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Ula-Gind",
+        "morpheme_suffix": "ar"
     },
     {
         "transcription": "Ula-Gisuk",
@@ -3194,7 +3588,9 @@
             "k"
         ],
         "structure": "VCVCVCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Ula-Gis",
+        "morpheme_suffix": "uk"
     },
     {
         "transcription": "Uni-saḫ",
@@ -3210,11 +3606,15 @@
         ],
         "structure": "VCVCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Uni"
+        "isolated_stem": "Uni",
+        "root": "Un",
+        "suffix": "i",
+        "morpheme_root": "Uni",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "Urpa-Burijaš",
@@ -3234,7 +3634,9 @@
             "š"
         ],
         "structure": "VCCVCVCVCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Urpa-Burij",
+        "morpheme_suffix": "aš"
     },
     {
         "transcription": "Urpa-nibi",
@@ -3251,7 +3653,9 @@
             "i"
         ],
         "structure": "VCCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Urpa-n",
+        "morpheme_suffix": "ibi"
     },
     {
         "transcription": "Urpaši-mašḫu",
@@ -3271,7 +3675,9 @@
             "u"
         ],
         "structure": "VCCVCVCVC0V",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Urpaši-m",
+        "morpheme_suffix": "ašḫu"
     },
     {
         "transcription": "Urzi-Burijaš",
@@ -3291,7 +3697,9 @@
             "š"
         ],
         "structure": "VCCVCVCVCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Urzi-Burij",
+        "morpheme_suffix": "aš"
     },
     {
         "transcription": "Usbi-Enlil",
@@ -3313,7 +3721,11 @@
             "enlil"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Usbi"
+        "isolated_stem": "Usbi",
+        "root": "Usb",
+        "suffix": "i",
+        "morpheme_root": "Usbi-E",
+        "morpheme_suffix": "nlil"
     },
     {
         "transcription": "Ušbula",
@@ -3328,7 +3740,9 @@
             "a"
         ],
         "structure": "VCCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Ušb",
+        "morpheme_suffix": "ula"
     },
     {
         "transcription": "Uzi-Marduk",
@@ -3346,7 +3760,9 @@
             "k"
         ],
         "structure": "VCVCVCCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Uzi-Ma",
+        "morpheme_suffix": "rduk"
     },
     {
         "transcription": "Uzi-šugab",
@@ -3368,7 +3784,11 @@
             "Sugab"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Uzi"
+        "isolated_stem": "Uzi",
+        "root": "Uz",
+        "suffix": "i",
+        "morpheme_root": "Uzi-š",
+        "morpheme_suffix": "ugab"
     },
     {
         "transcription": "Uzib-Šikmi?",
@@ -3387,7 +3807,9 @@
             "?"
         ],
         "structure": "VCVCCVCCV0",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Uzib-Šikmi?",
+        "morpheme_suffix": null
     },
     {
         "transcription": "Uzibu",
@@ -3401,7 +3823,9 @@
             "u"
         ],
         "structure": "VCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Uz",
+        "morpheme_suffix": "ibu"
     },
     {
         "transcription": "Uzima-ḫarbe",
@@ -3424,7 +3848,11 @@
             "Harbe"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Uzimaḫarbe"
+        "isolated_stem": "Uzimaḫarbe",
+        "root": "Uzimaḫarb",
+        "suffix": "e",
+        "morpheme_root": "Uzima-ḫ",
+        "morpheme_suffix": "arbe"
     },
     {
         "transcription": "Uzub-ḫala",
@@ -3445,7 +3873,11 @@
             "Hala"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Uzubḫala"
+        "isolated_stem": "Uzubḫala",
+        "root": "Uzubḫal",
+        "suffix": "a",
+        "morpheme_root": "Uzub-ḫ",
+        "morpheme_suffix": "ala"
     },
     {
         "transcription": "Uzub-nibu",
@@ -3462,7 +3894,9 @@
             "u"
         ],
         "structure": "VCVCCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Uzub-n",
+        "morpheme_suffix": "ibu"
     },
     {
         "transcription": "Abi-Rataš",
@@ -3479,7 +3913,9 @@
             "š"
         ],
         "structure": "VCVCVCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Abi-Ra",
+        "morpheme_suffix": "taš"
     },
     {
         "transcription": "Abi-Rutaš",
@@ -3496,7 +3932,9 @@
             "š"
         ],
         "structure": "VCVCVCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Abi-Ru",
+        "morpheme_suffix": "taš"
     },
     {
         "transcription": "Agum",
@@ -3509,7 +3947,9 @@
             "m"
         ],
         "structure": "VCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Ag",
+        "morpheme_suffix": "um"
     },
     {
         "transcription": "Alba-da",
@@ -3524,7 +3964,9 @@
             "a"
         ],
         "structure": "VCCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Alba-",
+        "morpheme_suffix": "da"
     },
     {
         "transcription": "Albadi-Saḫ",
@@ -3543,11 +3985,15 @@
         ],
         "structure": "VCCVCVCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Albadi"
+        "isolated_stem": "Albadi",
+        "root": "Albad",
+        "suffix": "i",
+        "morpheme_root": "Albadi",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "Ališbi-Saḫ",
@@ -3566,11 +4012,15 @@
         ],
         "structure": "VCVCCVCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Ališbi"
+        "isolated_stem": "Ališbi",
+        "root": "Ališb",
+        "suffix": "i",
+        "morpheme_root": "Ališbi",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "Ailzibu",
@@ -3586,7 +4036,9 @@
             "u"
         ],
         "structure": "VVCCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Ailz",
+        "morpheme_suffix": "ibu"
     },
     {
         "transcription": "Alzibu-naša",
@@ -3605,7 +4057,9 @@
             "a"
         ],
         "structure": "VCCVCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Alzibu-naša",
+        "morpheme_suffix": null
     },
     {
         "transcription": "Alsa-duri",
@@ -3622,7 +4076,9 @@
             "i"
         ],
         "structure": "VCCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Alsa-du",
+        "morpheme_suffix": "ri"
     },
     {
         "transcription": "Ašar-Saḫ",
@@ -3639,11 +4095,15 @@
         ],
         "structure": "VCVCCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Ašar"
+        "isolated_stem": "Ašar",
+        "root": "Ašar",
+        "suffix": "",
+        "morpheme_root": "Ašar",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "Ani-kilamdi",
@@ -3662,7 +4122,9 @@
             "i"
         ],
         "structure": "VCVCVCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Ani-kilam",
+        "morpheme_suffix": "di"
     },
     {
         "transcription": "Ašriqu",
@@ -3677,7 +4139,9 @@
             "u"
         ],
         "structure": "VCCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Ašriqu",
+        "morpheme_suffix": null
     },
     {
         "transcription": "Badu-Zana",
@@ -3694,7 +4158,9 @@
             "a"
         ],
         "structure": "CVCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Badu-",
+        "morpheme_suffix": "zana"
     },
     {
         "transcription": "Bi-Bugašu",
@@ -3716,7 +4182,9 @@
             "Bugaš"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Unebkannt"
+        "isolated_stem": "Unebkannt",
+        "morpheme_root": "Bi-Bug",
+        "morpheme_suffix": "ašu"
     },
     {
         "transcription": "Biri-šuriyaš",
@@ -3736,7 +4204,9 @@
             "š"
         ],
         "structure": "CVCVCVCVVVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Biri-šur",
+        "morpheme_suffix": "iyaš"
     },
     {
         "transcription": "Bula-ḫali",
@@ -3753,7 +4223,9 @@
             "i"
         ],
         "structure": "CVCV0VCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Bula-ḫa",
+        "morpheme_suffix": "li"
     },
     {
         "transcription": "bula-nikir",
@@ -3771,7 +4243,9 @@
             "r"
         ],
         "structure": "CVCVCVCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "bula-nikir",
+        "morpheme_suffix": null
     },
     {
         "transcription": "Bunabu",
@@ -3786,7 +4260,9 @@
             "u"
         ],
         "structure": "CVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Bun",
+        "morpheme_suffix": "abu"
     },
     {
         "transcription": "Bunnie",
@@ -3801,7 +4277,9 @@
             "e"
         ],
         "structure": "CVCCVV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Bunnie",
+        "morpheme_suffix": null
     },
     {
         "transcription": "Bunni-ḫarpa",
@@ -3820,7 +4298,9 @@
             "a"
         ],
         "structure": "CVCCV0VCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Bunni-ḫ",
+        "morpheme_suffix": "arpa"
     },
     {
         "transcription": "Bunni-tura",
@@ -3838,7 +4318,9 @@
             "a"
         ],
         "structure": "CVCCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Bunni-tu",
+        "morpheme_suffix": "ra"
     },
     {
         "transcription": "Buramizi",
@@ -3855,7 +4337,9 @@
             "i"
         ],
         "structure": "CVCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Burami",
+        "morpheme_suffix": "zi"
     },
     {
         "transcription": "Bura-saḫ",
@@ -3872,11 +4356,15 @@
         ],
         "structure": "CVCVCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Bura"
+        "isolated_stem": "Bura",
+        "root": "Bur",
+        "suffix": "a",
+        "morpheme_root": "Bura",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "Bura-Sana",
@@ -3893,7 +4381,9 @@
             "a"
         ],
         "structure": "CVCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Bura-S",
+        "morpheme_suffix": "ana"
     },
     {
         "transcription": "Buraša-Marduk",
@@ -3914,7 +4404,9 @@
             "k"
         ],
         "structure": "CVCVCVCVCCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Buraša-Ma",
+        "morpheme_suffix": "rduk"
     },
     {
         "transcription": "Bureya",
@@ -3929,7 +4421,9 @@
             "a"
         ],
         "structure": "CVCVVV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Bure",
+        "morpheme_suffix": "ya"
     },
     {
         "transcription": "Burna-Adad",
@@ -3947,7 +4441,9 @@
             "d"
         ],
         "structure": "CVCCVVCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Burna-Adad",
+        "morpheme_suffix": null
     },
     {
         "transcription": "Burnami-saḫ",
@@ -3967,11 +4463,15 @@
         ],
         "structure": "CVCCVCVCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Burnami"
+        "isolated_stem": "Burnami",
+        "root": "Burnam",
+        "suffix": "i",
+        "morpheme_root": "Burnami",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "burna-Harbašu",
@@ -3992,7 +4492,9 @@
             "u"
         ],
         "structure": "CVCCVCVCCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "burna-Harb",
+        "morpheme_suffix": "ašu"
     },
     {
         "transcription": "Burnabiḫe",
@@ -4010,7 +4512,9 @@
             "e"
         ],
         "structure": "CVCCVCV0V",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Burnabiḫe",
+        "morpheme_suffix": null
     },
     {
         "transcription": "burnabu",
@@ -4026,7 +4530,9 @@
             "u"
         ],
         "structure": "CVCCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "burn",
+        "morpheme_suffix": "abu"
     },
     {
         "transcription": "Burna-zini",
@@ -4044,7 +4550,9 @@
             "i"
         ],
         "structure": "CVCCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Burna-zi",
+        "morpheme_suffix": "ni"
     },
     {
         "transcription": "burni",
@@ -4058,7 +4566,9 @@
             "i"
         ],
         "structure": "CVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "bur",
+        "morpheme_suffix": "ni"
     },
     {
         "transcription": "burni-durum",
@@ -4077,7 +4587,9 @@
             "m"
         ],
         "structure": "CVCCVCVCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "burni-dur",
+        "morpheme_suffix": "um"
     },
     {
         "transcription": "burni-dura",
@@ -4095,7 +4607,9 @@
             "a"
         ],
         "structure": "CVCCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "burni-du",
+        "morpheme_suffix": "ra"
     },
     {
         "transcription": "burni-mašḫu",
@@ -4114,7 +4628,9 @@
             "u"
         ],
         "structure": "CVCCVCVC0V",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "burni-m",
+        "morpheme_suffix": "ašḫu"
     },
     {
         "transcription": "burpa-suqšu",
@@ -4133,7 +4649,9 @@
             "u"
         ],
         "structure": "CVCCVCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "burpa-suq",
+        "morpheme_suffix": "šu"
     },
     {
         "transcription": "Burra-alban",
@@ -4152,7 +4670,9 @@
             "n"
         ],
         "structure": "CVCCVVCCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Burra-al",
+        "morpheme_suffix": "ban"
     },
     {
         "transcription": "burra-laguda",
@@ -4172,7 +4692,9 @@
             "a"
         ],
         "structure": "CVCCVCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "burra-lagu",
+        "morpheme_suffix": "da"
     },
     {
         "transcription": "burraši-galdu",
@@ -4193,7 +4715,9 @@
             "u"
         ],
         "structure": "CVCCVCVCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "burraši-gal",
+        "morpheme_suffix": "du"
     },
     {
         "transcription": "burra-šikme",
@@ -4212,7 +4736,9 @@
             "e"
         ],
         "structure": "CVCCVCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "burra-šik",
+        "morpheme_suffix": "me"
     },
     {
         "transcription": "burra-šuḫur",
@@ -4231,7 +4757,9 @@
             "r"
         ],
         "structure": "CVCCVCV0VC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "burra-šuḫur",
+        "morpheme_suffix": null
     },
     {
         "transcription": "burra-šuqamuna",
@@ -4253,7 +4781,9 @@
             "a"
         ],
         "structure": "CVCCVCVCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "burra-šuqa",
+        "morpheme_suffix": "muna"
     },
     {
         "transcription": "burra-turra",
@@ -4272,7 +4802,9 @@
             "a"
         ],
         "structure": "CVCCVCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "burra-tur",
+        "morpheme_suffix": "ra"
     },
     {
         "transcription": "burra-akmul",
@@ -4291,7 +4823,9 @@
             "l"
         ],
         "structure": "CVCCVVCCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "burra-akmul",
+        "morpheme_suffix": null
     },
     {
         "transcription": "burrutu",
@@ -4307,7 +4841,9 @@
             "u"
         ],
         "structure": "CVCCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "burru",
+        "morpheme_suffix": "tu"
     },
     {
         "transcription": "duni-mašḫu",
@@ -4325,7 +4861,9 @@
             "u"
         ],
         "structure": "CVCVCVC0V",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "duni-m",
+        "morpheme_suffix": "ašḫu"
     },
     {
         "transcription": "ebi-rattaš",
@@ -4343,7 +4881,9 @@
             "š"
         ],
         "structure": "VCVCVCCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "ebi-ra",
+        "morpheme_suffix": "ttaš"
     },
     {
         "transcription": "gab-buriyaš",
@@ -4366,7 +4906,11 @@
             "buriyaš"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Gab"
+        "isolated_stem": "Gab",
+        "root": "Gab",
+        "suffix": "",
+        "morpheme_root": "gab-bur",
+        "morpheme_suffix": "iyaš"
     },
     {
         "transcription": "gab-ḫarbe",
@@ -4387,7 +4931,11 @@
             "Harbe"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Gabḫarbe"
+        "isolated_stem": "Gabḫarbe",
+        "root": "Gabḫarb",
+        "suffix": "e",
+        "morpheme_root": "gab-ḫ",
+        "morpheme_suffix": "arbe"
     },
     {
         "transcription": "gab-satran",
@@ -4405,7 +4953,9 @@
             "n"
         ],
         "structure": "CVCCVCCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "gab-sat",
+        "morpheme_suffix": "ran"
     },
     {
         "transcription": "gab-šuqamuna",
@@ -4425,7 +4975,9 @@
             "a"
         ],
         "structure": "CVCCVCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "gab-šuqa",
+        "morpheme_suffix": "muna"
     },
     {
         "transcription": "gaddaš",
@@ -4440,7 +4992,9 @@
             "š"
         ],
         "structure": "CVCCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "gad",
+        "morpheme_suffix": "daš"
     },
     {
         "transcription": "gandaš",
@@ -4455,7 +5009,9 @@
             "š"
         ],
         "structure": "CVCCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "gan",
+        "morpheme_suffix": "daš"
     },
     {
         "transcription": "gandi",
@@ -4469,7 +5025,9 @@
             "i"
         ],
         "structure": "CVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "gan",
+        "morpheme_suffix": "di"
     },
     {
         "transcription": "gerza-bura",
@@ -4487,7 +5045,9 @@
             "a"
         ],
         "structure": "CVCCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "gerza-bu",
+        "morpheme_suffix": "ra"
     },
     {
         "transcription": "kirza-bura",
@@ -4505,7 +5065,9 @@
             "a"
         ],
         "structure": "CVCCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "kirza-bu",
+        "morpheme_suffix": "ra"
     },
     {
         "transcription": "gunini-bugaš",
@@ -4529,7 +5091,11 @@
             "Bugaš"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Gunini"
+        "isolated_stem": "Gunini",
+        "root": "Gunin",
+        "suffix": "i",
+        "morpheme_root": "gunini-b",
+        "morpheme_suffix": "ugaš"
     },
     {
         "transcription": "gunizar-bugaš",
@@ -4554,7 +5120,11 @@
             "Bugaš"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Gunizar"
+        "isolated_stem": "Gunizar",
+        "root": "Gunizar",
+        "suffix": "",
+        "morpheme_root": "gunizar-b",
+        "morpheme_suffix": "ugaš"
     },
     {
         "transcription": "gurba-saḫ",
@@ -4572,11 +5142,15 @@
         ],
         "structure": "CVCCVCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Gurba"
+        "isolated_stem": "Gurba",
+        "root": "Gurb",
+        "suffix": "a",
+        "morpheme_root": "gurba",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "gurpazaduya",
@@ -4596,7 +5170,9 @@
             "a"
         ],
         "structure": "CVCCVCVCVVV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "gurpazadu",
+        "morpheme_suffix": "ya"
     },
     {
         "transcription": "guzalzal-bugaš",
@@ -4622,7 +5198,11 @@
             "Bugaš"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Guzalzal"
+        "isolated_stem": "Guzalzal",
+        "root": "Guzalzal",
+        "suffix": "",
+        "morpheme_root": "guzalzal-b",
+        "morpheme_suffix": "ugaš"
     },
     {
         "transcription": "guzar-ali",
@@ -4639,7 +5219,9 @@
             "i"
         ],
         "structure": "CVCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "guzar-a",
+        "morpheme_suffix": "li"
     },
     {
         "transcription": "guzaru",
@@ -4654,7 +5236,9 @@
             "u"
         ],
         "structure": "CVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "guzaru",
+        "morpheme_suffix": null
     },
     {
         "transcription": "ḫamaš-šarri",
@@ -4673,7 +5257,9 @@
             "i"
         ],
         "structure": "0VCVCCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "ḫamaš-šar",
+        "morpheme_suffix": "ri"
     },
     {
         "transcription": "ḫamaš-šuk",
@@ -4690,7 +5276,9 @@
             "k"
         ],
         "structure": "0VCVCCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "ḫamaš-š",
+        "morpheme_suffix": "uk"
     },
     {
         "transcription": "ḫāmaš-šugab",
@@ -4714,7 +5302,11 @@
             "Sugab"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Maš"
+        "isolated_stem": "Maš",
+        "root": "Maš",
+        "suffix": "",
+        "morpheme_root": "ḫāmaš-š",
+        "morpheme_suffix": "ugab"
     },
     {
         "transcription": "ḫārbal-saḫ",
@@ -4733,11 +5325,15 @@
         ],
         "structure": "0VCCVCCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Rbal"
+        "isolated_stem": "Rbal",
+        "root": "Rbal",
+        "suffix": "",
+        "morpheme_root": "ḫārbal",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "ḫarpaniwe",
@@ -4755,7 +5351,9 @@
             "e"
         ],
         "structure": "0VCCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "ḫarpaniwe",
+        "morpheme_suffix": null
     },
     {
         "transcription": "ḫarba-šiḫu",
@@ -4773,7 +5371,9 @@
             "u"
         ],
         "structure": "0VCCVCV0V",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "ḫarba-",
+        "morpheme_suffix": "šiḫu"
     },
     {
         "transcription": "ḫašardu",
@@ -4789,7 +5389,9 @@
             "u"
         ],
         "structure": "0VCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "ḫašar",
+        "morpheme_suffix": "du"
     },
     {
         "transcription": "ḫašmar",
@@ -4804,7 +5406,9 @@
             "r"
         ],
         "structure": "0VCCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "ḫašm",
+        "morpheme_suffix": "ar"
     },
     {
         "transcription": "ḫašmar-galšu",
@@ -4824,7 +5428,9 @@
             "u"
         ],
         "structure": "0VCCVCCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "ḫašmar-gal",
+        "morpheme_suffix": "šu"
     },
     {
         "transcription": "ḫašuar",
@@ -4839,7 +5445,9 @@
             "r"
         ],
         "structure": "0VCVVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "ḫašu",
+        "morpheme_suffix": "ar"
     },
     {
         "transcription": "ḫirzi",
@@ -4853,7 +5461,9 @@
             "i"
         ],
         "structure": "0VCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "ḫir",
+        "morpheme_suffix": "zi"
     },
     {
         "transcription": "ḫudi-yazi",
@@ -4870,7 +5480,9 @@
             "i"
         ],
         "structure": "0VCVVVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "ḫudi-ya",
+        "morpheme_suffix": "zi"
     },
     {
         "transcription": "ḫumurbi",
@@ -4886,7 +5498,9 @@
             "i"
         ],
         "structure": "0VCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "ḫumur",
+        "morpheme_suffix": "bi"
     },
     {
         "transcription": "ḫumurti",
@@ -4902,7 +5516,9 @@
             "i"
         ],
         "structure": "0VCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "ḫumur",
+        "morpheme_suffix": "ti"
     },
     {
         "transcription": "ḫuri-saḫ",
@@ -4919,11 +5535,15 @@
         ],
         "structure": "0VCVCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Ḫuri"
+        "isolated_stem": "Ḫuri",
+        "root": "Ḫur",
+        "suffix": "i",
+        "morpheme_root": "ḫuri",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "ḫušši-ḫarbe",
@@ -4946,7 +5566,11 @@
             "Harbe"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Ḫuššiḫarbe"
+        "isolated_stem": "Ḫuššiḫarbe",
+        "root": "Ḫuššiḫarb",
+        "suffix": "e",
+        "morpheme_root": "ḫušši-ḫ",
+        "morpheme_suffix": "arbe"
     },
     {
         "transcription": "ḫuštiya",
@@ -4962,7 +5586,9 @@
             "a"
         ],
         "structure": "0VCCVVV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "ḫušt",
+        "morpheme_suffix": "iya"
     },
     {
         "transcription": "Ibša-ḫalu",
@@ -4979,7 +5605,9 @@
             "u"
         ],
         "structure": "VCCV0VCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Ibša-ḫa",
+        "morpheme_suffix": "lu"
     },
     {
         "transcription": "ibša",
@@ -4992,7 +5620,9 @@
             "a"
         ],
         "structure": "VCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "ibša",
+        "morpheme_suffix": null
     },
     {
         "transcription": "ili-šarigaš",
@@ -5011,7 +5641,9 @@
             "š"
         ],
         "structure": "VCVCVCVCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "ili-šari",
+        "morpheme_suffix": "gaš"
     },
     {
         "transcription": "inza-ḫudak",
@@ -5029,7 +5661,9 @@
             "k"
         ],
         "structure": "VCCV0VCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "inza-ḫudak",
+        "morpheme_suffix": null
     },
     {
         "transcription": "inzatum",
@@ -5045,7 +5679,9 @@
             "m"
         ],
         "structure": "VCCVCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "inzat",
+        "morpheme_suffix": "um"
     },
     {
         "transcription": "inzi-mašḫu",
@@ -5063,7 +5699,9 @@
             "u"
         ],
         "structure": "VCCVCVC0V",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "inzi-m",
+        "morpheme_suffix": "ašḫu"
     },
     {
         "transcription": "inzite",
@@ -5078,7 +5716,9 @@
             "e"
         ],
         "structure": "VCCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "inzi",
+        "morpheme_suffix": "te"
     },
     {
         "transcription": "inzi-tešup",
@@ -5096,7 +5736,9 @@
             "p"
         ],
         "structure": "VCCVCVCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "inzi-tešup",
+        "morpheme_suffix": null
     },
     {
         "transcription": "inzu",
@@ -5109,7 +5751,9 @@
             "u"
         ],
         "structure": "VCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "in",
+        "morpheme_suffix": "zu"
     },
     {
         "transcription": "ibzu-ḫusieš",
@@ -5128,7 +5772,9 @@
             "š"
         ],
         "structure": "VCCV0VCVVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "ibzu-ḫusieš",
+        "morpheme_suffix": null
     },
     {
         "transcription": "inzu-kutir",
@@ -5146,7 +5792,9 @@
             "r"
         ],
         "structure": "VCCVCVCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "inzu-kutir",
+        "morpheme_suffix": null
     },
     {
         "transcription": "inzu-mena",
@@ -5163,7 +5811,9 @@
             "a"
         ],
         "structure": "VCCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "inzu-me",
+        "morpheme_suffix": "na"
     },
     {
         "transcription": "inzu-murudaš",
@@ -5183,7 +5833,9 @@
             "š"
         ],
         "structure": "VCCVCVCVCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "inzu-muru",
+        "morpheme_suffix": "daš"
     },
     {
         "transcription": "išabatal",
@@ -5200,7 +5852,9 @@
             "l"
         ],
         "structure": "VCVCVCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "išabatal",
+        "morpheme_suffix": null
     },
     {
         "transcription": "išbi-ula",
@@ -5216,7 +5870,9 @@
             "a"
         ],
         "structure": "VCCVVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "išbi-",
+        "morpheme_suffix": "ula"
     },
     {
         "transcription": "išbi-tilla",
@@ -5234,7 +5890,9 @@
             "a"
         ],
         "structure": "VCCVCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "išbi-til",
+        "morpheme_suffix": "la"
     },
     {
         "transcription": "išib-ḫalu",
@@ -5251,7 +5909,9 @@
             "u"
         ],
         "structure": "VCVC0VCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "išib-ḫa",
+        "morpheme_suffix": "lu"
     },
     {
         "transcription": "išbi-saḫ",
@@ -5268,11 +5928,15 @@
         ],
         "structure": "VCCVCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Išbi"
+        "isolated_stem": "Išbi",
+        "root": "Išb",
+        "suffix": "i",
+        "morpheme_root": "išbi",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "išubi",
@@ -5286,7 +5950,9 @@
             "i"
         ],
         "structure": "VCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "išu",
+        "morpheme_suffix": "bi"
     },
     {
         "transcription": "izib-ḫalu",
@@ -5303,7 +5969,9 @@
             "u"
         ],
         "structure": "VCVC0VCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "izib-ḫa",
+        "morpheme_suffix": "lu"
     },
     {
         "transcription": "yanzi-buryaš",
@@ -5323,7 +5991,9 @@
             "š"
         ],
         "structure": "VVCCVCVCVVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "yanzi-bur",
+        "morpheme_suffix": "yaš"
     },
     {
         "transcription": "yanzu-mak..",
@@ -5342,7 +6012,9 @@
             "."
         ],
         "structure": "VVCCVCVC00",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "yanzu-mak..",
+        "morpheme_suffix": null
     },
     {
         "transcription": "yanzi-mašḫu",
@@ -5361,7 +6033,9 @@
             "u"
         ],
         "structure": "VVCCVCVC0V",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "yanzi-m",
+        "morpheme_suffix": "ašḫu"
     },
     {
         "transcription": "yanzi",
@@ -5375,7 +6049,9 @@
             "i"
         ],
         "structure": "VVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "yan",
+        "morpheme_suffix": "zi"
     },
     {
         "transcription": "yanzu",
@@ -5389,7 +6065,9 @@
             "u"
         ],
         "structure": "VVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "yan",
+        "morpheme_suffix": "zu"
     },
     {
         "transcription": "kadašman",
@@ -5406,7 +6084,9 @@
             "n"
         ],
         "structure": "CVCVCCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "kadašm",
+        "morpheme_suffix": "an"
     },
     {
         "transcription": "kadašman-buriaš",
@@ -5433,7 +6113,11 @@
             "Buriaš"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Kadašman"
+        "isolated_stem": "Kadašman",
+        "root": "Kadašman",
+        "suffix": "",
+        "morpheme_root": "kadašman-buri",
+        "morpheme_suffix": "aš"
     },
     {
         "transcription": "kadašman-durgu",
@@ -5455,7 +6139,9 @@
             "u"
         ],
         "structure": "CVCVCCVCCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "kadašman-durgu",
+        "morpheme_suffix": null
     },
     {
         "transcription": "kadašman-ḫarbe",
@@ -5481,7 +6167,11 @@
             "Harbe"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Kadašmanḫarbe"
+        "isolated_stem": "Kadašmanḫarbe",
+        "root": "Kadašmanḫarb",
+        "suffix": "e",
+        "morpheme_root": "kadašman-ḫ",
+        "morpheme_suffix": "arbe"
     },
     {
         "transcription": "kadašman-saḫ",
@@ -5502,11 +6192,15 @@
         ],
         "structure": "CVCVCCVCCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Kadašman"
+        "isolated_stem": "Kadašman",
+        "root": "Kadašman",
+        "suffix": "",
+        "morpheme_root": "kadašman",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "kara-ḫardaš",
@@ -5525,7 +6219,9 @@
             "š"
         ],
         "structure": "CVCV0VCCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "kara-ḫar",
+        "morpheme_suffix": "daš"
     },
     {
         "transcription": "kadašman-šiḫu",
@@ -5546,7 +6242,9 @@
             "u"
         ],
         "structure": "CVCVCCVCCV0V",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "kadašman-",
+        "morpheme_suffix": "šiḫu"
     },
     {
         "transcription": "kara-indaš",
@@ -5565,11 +6263,15 @@
         ],
         "structure": "CVCVVCCVC",
         "detected_gods": [
-            "indas",
-            "Indaš"
+            "Indaš",
+            "indas"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Kara"
+        "isolated_stem": "Kara",
+        "root": "Kar",
+        "suffix": "a",
+        "morpheme_root": "kara-in",
+        "morpheme_suffix": "daš"
     },
     {
         "transcription": "kara-šuqamuna",
@@ -5590,7 +6292,9 @@
             "a"
         ],
         "structure": "CVCVCVCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "kara-šuqa",
+        "morpheme_suffix": "muna"
     },
     {
         "transcription": "kari-saḫ",
@@ -5607,11 +6311,15 @@
         ],
         "structure": "CVCVCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Kari"
+        "isolated_stem": "Kari",
+        "root": "Kar",
+        "suffix": "i",
+        "morpheme_root": "kari",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "karzi-apku",
@@ -5629,7 +6337,9 @@
             "u"
         ],
         "structure": "CVCCVVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "karzi-apku",
+        "morpheme_suffix": null
     },
     {
         "transcription": "karzi-yapku",
@@ -5648,7 +6358,9 @@
             "u"
         ],
         "structure": "CVCCVVVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "karzi-yapku",
+        "morpheme_suffix": null
     },
     {
         "transcription": "karzi-ban",
@@ -5665,7 +6377,9 @@
             "n"
         ],
         "structure": "CVCCVCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "karzi-",
+        "morpheme_suffix": "ban"
     },
     {
         "transcription": "karzi-barataš",
@@ -5686,7 +6400,9 @@
             "š"
         ],
         "structure": "CVCCVCVCVCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "karzi-bara",
+        "morpheme_suffix": "taš"
     },
     {
         "transcription": "karzi-marattaš",
@@ -5708,7 +6424,9 @@
             "š"
         ],
         "structure": "CVCCVCVCVCCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "karzi-mara",
+        "morpheme_suffix": "ttaš"
     },
     {
         "transcription": "kašakkūtum",
@@ -5727,7 +6445,9 @@
             "m"
         ],
         "structure": "CVCVCCVCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "kašakkūt",
+        "morpheme_suffix": "um"
     },
     {
         "transcription": "kašakti",
@@ -5743,7 +6463,9 @@
             "i"
         ],
         "structure": "CVCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "kaš",
+        "morpheme_suffix": "akti"
     },
     {
         "transcription": "kašakti-yanzi",
@@ -5764,7 +6486,9 @@
             "i"
         ],
         "structure": "CVCVCCVVVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "kašakti-yan",
+        "morpheme_suffix": "zi"
     },
     {
         "transcription": "kašakti-šugab",
@@ -5790,7 +6514,11 @@
             "Sugab"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Kašakti"
+        "isolated_stem": "Kašakti",
+        "root": "Kašakt",
+        "suffix": "i",
+        "morpheme_root": "kašakti-š",
+        "morpheme_suffix": "ugab"
     },
     {
         "transcription": "kašti-ban",
@@ -5807,7 +6535,9 @@
             "n"
         ],
         "structure": "CVCCVCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "kašti-",
+        "morpheme_suffix": "ban"
     },
     {
         "transcription": "kaštil",
@@ -5822,7 +6552,9 @@
             "l"
         ],
         "structure": "CVCCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "kašt",
+        "morpheme_suffix": "il"
     },
     {
         "transcription": "kaštilen-saḫ",
@@ -5843,11 +6575,15 @@
         ],
         "structure": "CVCCVCVCCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Kaštilen"
+        "isolated_stem": "Kaštilen",
+        "root": "Kaštilen",
+        "suffix": "",
+        "morpheme_root": "kaštilen",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "kaštilyašu",
@@ -5866,7 +6602,9 @@
             "u"
         ],
         "structure": "CVCCVCVVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "kaštily",
+        "morpheme_suffix": "ašu"
     },
     {
         "transcription": "kaštilli",
@@ -5883,7 +6621,9 @@
             "i"
         ],
         "structure": "CVCCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "kaštil",
+        "morpheme_suffix": "li"
     },
     {
         "transcription": "katar-saḫ",
@@ -5901,11 +6641,15 @@
         ],
         "structure": "CVCVCCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Katar"
+        "isolated_stem": "Katar",
+        "root": "Katar",
+        "suffix": "",
+        "morpheme_root": "katar",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "kiladi-marduk",
@@ -5926,7 +6670,9 @@
             "k"
         ],
         "structure": "CVCVCVCVCCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "kiladi-ma",
+        "morpheme_suffix": "rduk"
     },
     {
         "transcription": "kilamdašu",
@@ -5944,7 +6690,9 @@
             "u"
         ],
         "structure": "CVCVCCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "kilamd",
+        "morpheme_suffix": "ašu"
     },
     {
         "transcription": "kilamdi-buryaš",
@@ -5966,7 +6714,9 @@
             "š"
         ],
         "structure": "CVCVCCVCVCVVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "kilamdi-bur",
+        "morpheme_suffix": "yaš"
     },
     {
         "transcription": "kilamdi-marduk",
@@ -5988,7 +6738,9 @@
             "k"
         ],
         "structure": "CVCVCCVCVCCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "kilamdi-ma",
+        "morpheme_suffix": "rduk"
     },
     {
         "transcription": "kilamdi-šiḫu",
@@ -6008,7 +6760,9 @@
             "u"
         ],
         "structure": "CVCVCCVCV0V",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "kilamdi-",
+        "morpheme_suffix": "šiḫu"
     },
     {
         "transcription": "kilamdi-šugab",
@@ -6034,7 +6788,11 @@
             "Sugab"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Kilamdi"
+        "isolated_stem": "Kilamdi",
+        "root": "Kilamd",
+        "suffix": "i",
+        "morpheme_root": "kilamdi-š",
+        "morpheme_suffix": "ugab"
     },
     {
         "transcription": "kilamdi-ubriyaš",
@@ -6057,7 +6815,9 @@
             "š"
         ],
         "structure": "CVCVCCVVCCVVVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "kilamdi-ubr",
+        "morpheme_suffix": "iyaš"
     },
     {
         "transcription": "kilamdu",
@@ -6073,7 +6833,9 @@
             "u"
         ],
         "structure": "CVCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "kilam",
+        "morpheme_suffix": "du"
     },
     {
         "transcription": "kilam-saḫ",
@@ -6091,11 +6853,15 @@
         ],
         "structure": "CVCVCCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Kilam"
+        "isolated_stem": "Kilam",
+        "root": "Kilam",
+        "suffix": "",
+        "morpheme_root": "kilam",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "kilandi-buriyaš",
@@ -6122,7 +6888,11 @@
             "buriyaš"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Kilandi"
+        "isolated_stem": "Kilandi",
+        "root": "Kiland",
+        "suffix": "i",
+        "morpheme_root": "kilandi-bur",
+        "morpheme_suffix": "iyaš"
     },
     {
         "transcription": "kilandi-marduk",
@@ -6144,7 +6914,9 @@
             "k"
         ],
         "structure": "CVCVCCVCVCCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "kilandi-ma",
+        "morpheme_suffix": "rduk"
     },
     {
         "transcription": "kilandi-ubriyaš",
@@ -6167,7 +6939,9 @@
             "š"
         ],
         "structure": "CVCVCCVVCCVVVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "kilandi-ubr",
+        "morpheme_suffix": "iyaš"
     },
     {
         "transcription": "kilan-ubriyaš",
@@ -6188,7 +6962,9 @@
             "š"
         ],
         "structure": "CVCVCVCCVVVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "kilan-ubr",
+        "morpheme_suffix": "iyaš"
     },
     {
         "transcription": "kirigag",
@@ -6204,7 +6980,9 @@
             "g"
         ],
         "structure": "CVCVCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "kirigag",
+        "morpheme_suffix": null
     },
     {
         "transcription": "kirsa",
@@ -6218,7 +6996,9 @@
             "a"
         ],
         "structure": "CVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "kirsa",
+        "morpheme_suffix": null
     },
     {
         "transcription": "kirsam-bula",
@@ -6237,7 +7017,9 @@
             "a"
         ],
         "structure": "CVCCVCCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "kirsam-b",
+        "morpheme_suffix": "ula"
     },
     {
         "transcription": "Kirsi",
@@ -6251,7 +7033,9 @@
             "i"
         ],
         "structure": "CVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Kirsi",
+        "morpheme_suffix": null
     },
     {
         "transcription": "kirsiya",
@@ -6267,7 +7051,9 @@
             "a"
         ],
         "structure": "CVCCVVV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "kirs",
+        "morpheme_suffix": "iya"
     },
     {
         "transcription": "kirsi-marduk",
@@ -6287,7 +7073,9 @@
             "k"
         ],
         "structure": "CVCCVCVCCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "kirsi-ma",
+        "morpheme_suffix": "rduk"
     },
     {
         "transcription": "kirsu-mala",
@@ -6305,7 +7093,9 @@
             "a"
         ],
         "structure": "CVCCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "kirsu-m",
+        "morpheme_suffix": "ala"
     },
     {
         "transcription": "kissi-ḫarpa",
@@ -6324,7 +7114,9 @@
             "a"
         ],
         "structure": "CVCCV0VCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "kissi-ḫ",
+        "morpheme_suffix": "arpa"
     },
     {
         "transcription": "kissi",
@@ -6338,7 +7130,9 @@
             "i"
         ],
         "structure": "CVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "kissi",
+        "morpheme_suffix": null
     },
     {
         "transcription": "kissuk",
@@ -6353,7 +7147,9 @@
             "k"
         ],
         "structure": "CVCCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "kiss",
+        "morpheme_suffix": "uk"
     },
     {
         "transcription": "kirza",
@@ -6367,7 +7163,9 @@
             "a"
         ],
         "structure": "CVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "kirza",
+        "morpheme_suffix": null
     },
     {
         "transcription": "kirziya",
@@ -6383,7 +7181,9 @@
             "a"
         ],
         "structure": "CVCCVVV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "kirz",
+        "morpheme_suffix": "iya"
     },
     {
         "transcription": "kizzi-ḫarpe",
@@ -6402,7 +7202,9 @@
             "e"
         ],
         "structure": "CVCCV0VCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "kizzi-ḫarpe",
+        "morpheme_suffix": null
     },
     {
         "transcription": "kizzuk",
@@ -6417,7 +7219,9 @@
             "k"
         ],
         "structure": "CVCCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "kizz",
+        "morpheme_suffix": "uk"
     },
     {
         "transcription": "kubšiya",
@@ -6433,7 +7237,9 @@
             "a"
         ],
         "structure": "CVCCVVV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "kubš",
+        "morpheme_suffix": "iya"
     },
     {
         "transcription": "kubši-nimgir",
@@ -6453,7 +7259,9 @@
             "r"
         ],
         "structure": "CVCCVCVCCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "kubši-nimgir",
+        "morpheme_suffix": null
     },
     {
         "transcription": "ku-galzu",
@@ -6469,7 +7277,9 @@
             "u"
         ],
         "structure": "CVCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "ku-g",
+        "morpheme_suffix": "alzu"
     },
     {
         "transcription": "kunanibi",
@@ -6486,7 +7296,9 @@
             "i"
         ],
         "structure": "CVCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "kunan",
+        "morpheme_suffix": "ibi"
     },
     {
         "transcription": "kukurmaš",
@@ -6503,7 +7315,9 @@
             "š"
         ],
         "structure": "CVCVCCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "kukur",
+        "morpheme_suffix": "maš"
     },
     {
         "transcription": "kunindi-bugaš",
@@ -6528,7 +7342,11 @@
             "Bugaš"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Kunindi"
+        "isolated_stem": "Kunindi",
+        "root": "Kunind",
+        "suffix": "i",
+        "morpheme_root": "kunindi-b",
+        "morpheme_suffix": "ugaš"
     },
     {
         "transcription": "kunindu",
@@ -6544,7 +7362,9 @@
             "u"
         ],
         "structure": "CVCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "kunin",
+        "morpheme_suffix": "du"
     },
     {
         "transcription": "kunudi-buriyaš",
@@ -6570,7 +7390,11 @@
             "buriyaš"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Kunudi"
+        "isolated_stem": "Kunudi",
+        "root": "Kunud",
+        "suffix": "i",
+        "morpheme_root": "kunudi-bur",
+        "morpheme_suffix": "iyaš"
     },
     {
         "transcription": "kunundu-ubriyaš",
@@ -6593,7 +7417,9 @@
             "š"
         ],
         "structure": "CVCVCCVVCCVVVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "kunundu-ubr",
+        "morpheme_suffix": "iyaš"
     },
     {
         "transcription": "kunundi-ubriyaš",
@@ -6616,7 +7442,9 @@
             "š"
         ],
         "structure": "CVCVCCVVCCVVVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "kunundi-ubr",
+        "morpheme_suffix": "iyaš"
     },
     {
         "transcription": "kuri-durgu",
@@ -6634,7 +7462,9 @@
             "u"
         ],
         "structure": "CVCVCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "kuri-durgu",
+        "morpheme_suffix": null
     },
     {
         "transcription": "kuri-galzu",
@@ -6652,7 +7482,9 @@
             "u"
         ],
         "structure": "CVCVCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "kuri-g",
+        "morpheme_suffix": "alzu"
     },
     {
         "transcription": "kuri-yani",
@@ -6669,7 +7501,9 @@
             "i"
         ],
         "structure": "CVCVVVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "kuri-ya",
+        "morpheme_suffix": "ni"
     },
     {
         "transcription": "kurišni",
@@ -6685,7 +7519,9 @@
             "i"
         ],
         "structure": "CVCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "kuriš",
+        "morpheme_suffix": "ni"
     },
     {
         "transcription": "kur-galzu",
@@ -6702,7 +7538,9 @@
             "u"
         ],
         "structure": "CVCCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "kur-g",
+        "morpheme_suffix": "alzu"
     },
     {
         "transcription": "kurpa-saḫ",
@@ -6720,11 +7558,15 @@
         ],
         "structure": "CVCCVCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Kurpa"
+        "isolated_stem": "Kurpa",
+        "root": "Kurp",
+        "suffix": "a",
+        "morpheme_root": "kurpa",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "kurpa-zaduya",
@@ -6744,7 +7586,9 @@
             "a"
         ],
         "structure": "CVCCVCVCVVV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "kurpa-zadu",
+        "morpheme_suffix": "ya"
     },
     {
         "transcription": "kurukše-bugaš",
@@ -6769,7 +7613,11 @@
             "Bugaš"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Kurukše"
+        "isolated_stem": "Kurukše",
+        "root": "Kurukš",
+        "suffix": "e",
+        "morpheme_root": "kurukše-b",
+        "morpheme_suffix": "ugaš"
     },
     {
         "transcription": "kurušni",
@@ -6785,7 +7633,9 @@
             "i"
         ],
         "structure": "CVCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "kuruš",
+        "morpheme_suffix": "ni"
     },
     {
         "transcription": "kušši-ḫarpa",
@@ -6804,7 +7654,9 @@
             "a"
         ],
         "structure": "CVCCV0VCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "kušši-ḫ",
+        "morpheme_suffix": "arpa"
     },
     {
         "transcription": "kuššiya",
@@ -6820,7 +7672,9 @@
             "a"
         ],
         "structure": "CVCCVVV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "kušš",
+        "morpheme_suffix": "iya"
     },
     {
         "transcription": "kuššu",
@@ -6834,7 +7688,9 @@
             "u"
         ],
         "structure": "CVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "kuš",
+        "morpheme_suffix": "šu"
     },
     {
         "transcription": "lutukinda",
@@ -6852,7 +7708,9 @@
             "a"
         ],
         "structure": "CVCVCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "lutukin",
+        "morpheme_suffix": "da"
     },
     {
         "transcription": "kuzi-mašḫu",
@@ -6870,7 +7728,9 @@
             "u"
         ],
         "structure": "CVCVCVC0V",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "kuzi-m",
+        "morpheme_suffix": "ašḫu"
     },
     {
         "transcription": "malab-ḫarbe",
@@ -6893,7 +7753,11 @@
             "Harbe"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Malabḫarbe"
+        "isolated_stem": "Malabḫarbe",
+        "root": "Malabḫarb",
+        "suffix": "e",
+        "morpheme_root": "malab-ḫ",
+        "morpheme_suffix": "arbe"
     },
     {
         "transcription": "me-BAR-šugab",
@@ -6917,7 +7781,11 @@
             "Sugab"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Mebar"
+        "isolated_stem": "Mebar",
+        "root": "Mebar",
+        "suffix": "",
+        "morpheme_root": "me-BAR-š",
+        "morpheme_suffix": "ugab"
     },
     {
         "transcription": "me-buriyāzi",
@@ -6936,7 +7804,9 @@
             "i"
         ],
         "structure": "CVCVCVVVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "me-buriyā",
+        "morpheme_suffix": "zi"
     },
     {
         "transcription": "me-dilyašu",
@@ -6954,7 +7824,9 @@
             "u"
         ],
         "structure": "CVCVCVVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "me-dily",
+        "morpheme_suffix": "ašu"
     },
     {
         "transcription": "mē-durgu",
@@ -6970,7 +7842,9 @@
             "u"
         ],
         "structure": "CVCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "mē-durgu",
+        "morpheme_suffix": null
     },
     {
         "transcription": "megila",
@@ -6985,7 +7859,9 @@
             "a"
         ],
         "structure": "CVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "megi",
+        "morpheme_suffix": "la"
     },
     {
         "transcription": "meḫulpi",
@@ -7001,7 +7877,9 @@
             "i"
         ],
         "structure": "CV0VCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "meḫulpi",
+        "morpheme_suffix": null
     },
     {
         "transcription": "mēnaḫibi",
@@ -7018,7 +7896,9 @@
             "i"
         ],
         "structure": "CVCV0VCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "mēnaḫ",
+        "morpheme_suffix": "ibi"
     },
     {
         "transcription": "mē-satran",
@@ -7035,7 +7915,9 @@
             "n"
         ],
         "structure": "CVCVCCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "mē-sat",
+        "morpheme_suffix": "ran"
     },
     {
         "transcription": "me-šikme",
@@ -7051,7 +7933,9 @@
             "e"
         ],
         "structure": "CVCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "me-šik",
+        "morpheme_suffix": "me"
     },
     {
         "transcription": "mitiliyāšu",
@@ -7070,7 +7954,9 @@
             "u"
         ],
         "structure": "CVCVCVVVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "mitiliyā",
+        "morpheme_suffix": "šu"
     },
     {
         "transcription": "meli-buriyaš",
@@ -7094,7 +7980,11 @@
             "buriyaš"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Meli"
+        "isolated_stem": "Meli",
+        "root": "Mel",
+        "suffix": "i",
+        "morpheme_root": "meli-bur",
+        "morpheme_suffix": "iyaš"
     },
     {
         "transcription": "meli-ḫala",
@@ -7115,7 +8005,11 @@
             "Hala"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Meliḫala"
+        "isolated_stem": "Meliḫala",
+        "root": "Meliḫal",
+        "suffix": "a",
+        "morpheme_root": "meli-ḫ",
+        "morpheme_suffix": "ala"
     },
     {
         "transcription": "meli-ḫarbe",
@@ -7137,7 +8031,11 @@
             "Harbe"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Meliḫarbe"
+        "isolated_stem": "Meliḫarbe",
+        "root": "Meliḫarb",
+        "suffix": "e",
+        "morpheme_root": "meli-ḫ",
+        "morpheme_suffix": "arbe"
     },
     {
         "transcription": "meli-ḫarpa",
@@ -7155,7 +8053,9 @@
             "a"
         ],
         "structure": "CVCV0VCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "meli-ḫ",
+        "morpheme_suffix": "arpa"
     },
     {
         "transcription": "meleya",
@@ -7170,7 +8070,9 @@
             "a"
         ],
         "structure": "CVCVVV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "mele",
+        "morpheme_suffix": "ya"
     },
     {
         "transcription": "meli-marduk",
@@ -7189,7 +8091,9 @@
             "k"
         ],
         "structure": "CVCVCVCCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "meli-ma",
+        "morpheme_suffix": "rduk"
     },
     {
         "transcription": "melim-saḫ",
@@ -7207,11 +8111,15 @@
         ],
         "structure": "CVCVCCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Melim"
+        "isolated_stem": "Melim",
+        "root": "Melim",
+        "suffix": "",
+        "morpheme_root": "melim",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "melen-saḫ",
@@ -7229,11 +8137,15 @@
         ],
         "structure": "CVCVCCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Melen"
+        "isolated_stem": "Melen",
+        "root": "Melen",
+        "suffix": "",
+        "morpheme_root": "melen",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "melien-zaḫ",
@@ -7251,7 +8163,9 @@
             "ḫ"
         ],
         "structure": "CVCVVCCV0",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "melien-z",
+        "morpheme_suffix": "aḫ"
     },
     {
         "transcription": "meli-šibarru",
@@ -7271,7 +8185,9 @@
             "u"
         ],
         "structure": "CVCVCVCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "meli-šibarru",
+        "morpheme_suffix": null
     },
     {
         "transcription": "meli-šiḫu",
@@ -7288,7 +8204,9 @@
             "u"
         ],
         "structure": "CVCVCV0V",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "meli-",
+        "morpheme_suffix": "šiḫu"
     },
     {
         "transcription": "meli-šugab",
@@ -7311,7 +8229,11 @@
             "Sugab"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Meli"
+        "isolated_stem": "Meli",
+        "root": "Mel",
+        "suffix": "i",
+        "morpheme_root": "meli-š",
+        "morpheme_suffix": "ugab"
     },
     {
         "transcription": "meli-šuqamuna",
@@ -7332,7 +8254,9 @@
             "a"
         ],
         "structure": "CVCVCVCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "meli-šuqa",
+        "morpheme_suffix": "muna"
     },
     {
         "transcription": "minašuk",
@@ -7348,7 +8272,9 @@
             "k"
         ],
         "structure": "CVCVCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "minaš",
+        "morpheme_suffix": "uk"
     },
     {
         "transcription": "muḫuški",
@@ -7364,7 +8290,9 @@
             "i"
         ],
         "structure": "CV0VCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "muḫuški",
+        "morpheme_suffix": null
     },
     {
         "transcription": "muktaris-saḫ",
@@ -7385,11 +8313,15 @@
         ],
         "structure": "CVCCVCVCCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Muktaris"
+        "isolated_stem": "Muktaris",
+        "root": "Muktaris",
+        "suffix": "",
+        "morpheme_root": "muktaris",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "muššini-saḫ",
@@ -7409,11 +8341,15 @@
         ],
         "structure": "CVCCVCVCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Muššini"
+        "isolated_stem": "Muššini",
+        "root": "Muššin",
+        "suffix": "i",
+        "morpheme_root": "muššini",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "nagim-saḫ",
@@ -7431,11 +8367,15 @@
         ],
         "structure": "CVCVCCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Nagim"
+        "isolated_stem": "Nagim",
+        "root": "Nagim",
+        "suffix": "",
+        "morpheme_root": "nagim",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "naḫzi",
@@ -7449,7 +8389,9 @@
             "i"
         ],
         "structure": "CV0CV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "naḫ",
+        "morpheme_suffix": "zi"
     },
     {
         "transcription": "naḫzi-saḫ",
@@ -7467,11 +8409,15 @@
         ],
         "structure": "CV0CVCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Naḫzi"
+        "isolated_stem": "Naḫzi",
+        "root": "Naḫz",
+        "suffix": "i",
+        "morpheme_root": "naḫzi",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "nanakti",
@@ -7487,7 +8433,9 @@
             "i"
         ],
         "structure": "CVCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "nan",
+        "morpheme_suffix": "akti"
     },
     {
         "transcription": "nazi-bugaš",
@@ -7509,7 +8457,11 @@
             "Bugaš"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Nazi"
+        "isolated_stem": "Nazi",
+        "root": "Naz",
+        "suffix": "i",
+        "morpheme_root": "nazi-b",
+        "morpheme_suffix": "ugaš"
     },
     {
         "transcription": "nazi-buryaš",
@@ -7528,7 +8480,9 @@
             "š"
         ],
         "structure": "CVCVCVCVVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "nazi-bur",
+        "morpheme_suffix": "yaš"
     },
     {
         "transcription": "nazi-enlil",
@@ -7550,7 +8504,11 @@
             "enlil"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Nazi"
+        "isolated_stem": "Nazi",
+        "root": "Naz",
+        "suffix": "i",
+        "morpheme_root": "nazi-e",
+        "morpheme_suffix": "nlil"
     },
     {
         "transcription": "nazi-marduk",
@@ -7569,7 +8527,9 @@
             "k"
         ],
         "structure": "CVCVCVCCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "nazi-ma",
+        "morpheme_suffix": "rduk"
     },
     {
         "transcription": "nazi-maruttaš",
@@ -7594,7 +8554,11 @@
             "Maruttaš"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Nazi"
+        "isolated_stem": "Nazi",
+        "root": "Naz",
+        "suffix": "i",
+        "morpheme_root": "nazi-maru",
+        "morpheme_suffix": "ttaš"
     },
     {
         "transcription": "nazi-murutaš",
@@ -7614,7 +8578,9 @@
             "š"
         ],
         "structure": "CVCVCVCVCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "nazi-muru",
+        "morpheme_suffix": "taš"
     },
     {
         "transcription": "nazi-šiḫu",
@@ -7631,7 +8597,9 @@
             "u"
         ],
         "structure": "CVCVCV0V",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "nazi-",
+        "morpheme_suffix": "šiḫu"
     },
     {
         "transcription": "nazi-šuqamuna",
@@ -7652,7 +8620,9 @@
             "a"
         ],
         "structure": "CVCVCVCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "nazi-šuqa",
+        "morpheme_suffix": "muna"
     },
     {
         "transcription": "nazūtum",
@@ -7668,7 +8638,9 @@
             "m"
         ],
         "structure": "CVCVCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "nazūt",
+        "morpheme_suffix": "um"
     },
     {
         "transcription": "nibiya-saḫ",
@@ -7687,11 +8659,15 @@
         ],
         "structure": "CVCVVVCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Nibiya"
+        "isolated_stem": "Nibiya",
+        "root": "Nibiy",
+        "suffix": "a",
+        "morpheme_root": "nibiya",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "nibi-šiḫu",
@@ -7708,7 +8684,9 @@
             "u"
         ],
         "structure": "CVCVCV0V",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "nibi-",
+        "morpheme_suffix": "šiḫu"
     },
     {
         "transcription": "nimbirab-AN",
@@ -7727,7 +8705,9 @@
             "n"
         ],
         "structure": "CVCCVCVCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "nimbirab-",
+        "morpheme_suffix": "an"
     },
     {
         "transcription": "nimbirabi",
@@ -7745,7 +8725,9 @@
             "i"
         ],
         "structure": "CVCCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "nimbira",
+        "morpheme_suffix": "bi"
     },
     {
         "transcription": "nimgirabi-buryaš",
@@ -7769,7 +8751,9 @@
             "š"
         ],
         "structure": "CVCCVCVCVCVCVVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "nimgirabi-bur",
+        "morpheme_suffix": "yaš"
     },
     {
         "transcription": "nimgirabi-marduk",
@@ -7793,7 +8777,9 @@
             "k"
         ],
         "structure": "CVCCVCVCVCVCCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "nimgirabi-ma",
+        "morpheme_suffix": "rduk"
     },
     {
         "transcription": "nimgirabi-saḫ",
@@ -7815,11 +8801,15 @@
         ],
         "structure": "CVCCVCVCVCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Nimgirabi"
+        "isolated_stem": "Nimgirabi",
+        "root": "Nimgirab",
+        "suffix": "i",
+        "morpheme_root": "nimgirabi",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "nimgira-ḫarbe",
@@ -7844,7 +8834,11 @@
             "Harbe"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Nimgiraḫarbe"
+        "isolated_stem": "Nimgiraḫarbe",
+        "root": "Nimgiraḫarb",
+        "suffix": "e",
+        "morpheme_root": "nimgira-ḫ",
+        "morpheme_suffix": "arbe"
     },
     {
         "transcription": "nimgirabu",
@@ -7862,7 +8856,9 @@
             "u"
         ],
         "structure": "CVCCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "nimgir",
+        "morpheme_suffix": "abu"
     },
     {
         "transcription": "ninkirab-saḫ",
@@ -7883,11 +8879,15 @@
         ],
         "structure": "CVCCVCVCCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Ninkirab"
+        "isolated_stem": "Ninkirab",
+        "root": "Ninkirab",
+        "suffix": "",
+        "morpheme_root": "ninkirab",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "NI-NI-ašriqa",
@@ -7906,7 +8906,9 @@
             "a"
         ],
         "structure": "CVCVVCCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "NI-NI-ašriqa",
+        "morpheme_suffix": null
     },
     {
         "transcription": "NI-NI-išriga",
@@ -7925,7 +8927,9 @@
             "a"
         ],
         "structure": "CVCVVCCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "NI-NI-išriga",
+        "morpheme_suffix": null
     },
     {
         "transcription": "nirakri",
@@ -7941,7 +8945,9 @@
             "i"
         ],
         "structure": "CVCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "nirak",
+        "morpheme_suffix": "ri"
     },
     {
         "transcription": "nula-saḫi",
@@ -7959,11 +8965,15 @@
         ],
         "structure": "CVCVCV0V",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Nulai"
+        "isolated_stem": "Nulai",
+        "root": "Nula",
+        "suffix": "i",
+        "morpheme_root": "nula-saḫi",
+        "morpheme_suffix": null
     },
     {
         "transcription": "nul-saḫi",
@@ -7980,11 +8990,15 @@
         ],
         "structure": "CVCCV0V",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Nuli"
+        "isolated_stem": "Nuli",
+        "root": "Nul",
+        "suffix": "i",
+        "morpheme_root": "nul-saḫi",
+        "morpheme_suffix": null
     },
     {
         "transcription": "nunakti",
@@ -8000,7 +9014,9 @@
             "i"
         ],
         "structure": "CVCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "nun",
+        "morpheme_suffix": "akti"
     },
     {
         "transcription": "nuniyaši",
@@ -8017,7 +9033,9 @@
             "i"
         ],
         "structure": "CVCVVVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "nuniyaši",
+        "morpheme_suffix": null
     },
     {
         "transcription": "paipur",
@@ -8032,7 +9050,9 @@
             "r"
         ],
         "structure": "CVVCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "paipur",
+        "morpheme_suffix": null
     },
     {
         "transcription": "paip-purni",
@@ -8050,7 +9070,9 @@
             "i"
         ],
         "structure": "CVVCCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "paip-pur",
+        "morpheme_suffix": "ni"
     },
     {
         "transcription": "pakki-saḫ",
@@ -8068,11 +9090,15 @@
         ],
         "structure": "CVCCVCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Pakki"
+        "isolated_stem": "Pakki",
+        "root": "Pakk",
+        "suffix": "i",
+        "morpheme_root": "pakki",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "pilandu",
@@ -8088,7 +9114,9 @@
             "u"
         ],
         "structure": "CVCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "pilan",
+        "morpheme_suffix": "du"
     },
     {
         "transcription": "qalduk",
@@ -8103,7 +9131,9 @@
             "k"
         ],
         "structure": "CVCCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "qal",
+        "morpheme_suffix": "duk"
     },
     {
         "transcription": "qalzu",
@@ -8117,7 +9147,9 @@
             "u"
         ],
         "structure": "CVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "q",
+        "morpheme_suffix": "alzu"
     },
     {
         "transcription": "qarintaš",
@@ -8134,7 +9166,9 @@
             "š"
         ],
         "structure": "CVCVCCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "qarin",
+        "morpheme_suffix": "taš"
     },
     {
         "transcription": "quna",
@@ -8147,7 +9181,9 @@
             "a"
         ],
         "structure": "CVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "q",
+        "morpheme_suffix": "una"
     },
     {
         "transcription": "qunanibi",
@@ -8164,7 +9200,9 @@
             "i"
         ],
         "structure": "CVCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "qunan",
+        "morpheme_suffix": "ibi"
     },
     {
         "transcription": "radbaš",
@@ -8179,7 +9217,9 @@
             "š"
         ],
         "structure": "CVCCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "radb",
+        "morpheme_suffix": "aš"
     },
     {
         "transcription": "RU-šibarra",
@@ -8197,7 +9237,9 @@
             "a"
         ],
         "structure": "CVCVCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "RU-šibar",
+        "morpheme_suffix": "ra"
     },
     {
         "transcription": "sabiḫari",
@@ -8214,7 +9256,9 @@
             "i"
         ],
         "structure": "CVCV0VCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "sabiḫa",
+        "morpheme_suffix": "ri"
     },
     {
         "transcription": "sibar-bugaš",
@@ -8237,7 +9281,11 @@
             "Bugaš"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Sibar"
+        "isolated_stem": "Sibar",
+        "root": "Sibar",
+        "suffix": "",
+        "morpheme_root": "sibar-b",
+        "morpheme_suffix": "ugaš"
     },
     {
         "transcription": "sibbar-šugab",
@@ -8262,7 +9310,11 @@
             "Sugab"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Sibbar"
+        "isolated_stem": "Sibbar",
+        "root": "Sibbar",
+        "suffix": "",
+        "morpheme_root": "sibbar-š",
+        "morpheme_suffix": "ugab"
     },
     {
         "transcription": "sikanta",
@@ -8278,7 +9330,9 @@
             "a"
         ],
         "structure": "CVCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "sikanta",
+        "morpheme_suffix": null
     },
     {
         "transcription": "ziqata",
@@ -8293,7 +9347,9 @@
             "a"
         ],
         "structure": "CVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "ziqata",
+        "morpheme_suffix": null
     },
     {
         "transcription": "sikte",
@@ -8307,7 +9363,9 @@
             "e"
         ],
         "structure": "CVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "sik",
+        "morpheme_suffix": "te"
     },
     {
         "transcription": "zikte",
@@ -8321,7 +9379,9 @@
             "e"
         ],
         "structure": "CVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "zik",
+        "morpheme_suffix": "te"
     },
     {
         "transcription": "sikte-bugašu",
@@ -8346,7 +9406,11 @@
             "Bugaš"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Sikte"
+        "isolated_stem": "Sikte",
+        "root": "Sikt",
+        "suffix": "e",
+        "morpheme_root": "sikte-bug",
+        "morpheme_suffix": "ašu"
     },
     {
         "transcription": "simbar-šiḫu",
@@ -8365,7 +9429,9 @@
             "u"
         ],
         "structure": "CVCCVCCV0V",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "simbar-",
+        "morpheme_suffix": "šiḫu"
     },
     {
         "transcription": "simburu",
@@ -8381,7 +9447,9 @@
             "u"
         ],
         "structure": "CVCCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "simburu",
+        "morpheme_suffix": null
     },
     {
         "transcription": "siriya",
@@ -8396,7 +9464,9 @@
             "a"
         ],
         "structure": "CVCVVV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "sir",
+        "morpheme_suffix": "iya"
     },
     {
         "transcription": "sirišaš",
@@ -8412,7 +9482,9 @@
             "š"
         ],
         "structure": "CVCVCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "siriš",
+        "morpheme_suffix": "aš"
     },
     {
         "transcription": "suḫur-galdu",
@@ -8431,7 +9503,9 @@
             "u"
         ],
         "structure": "CV0VCCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "suḫur-gal",
+        "morpheme_suffix": "du"
     },
     {
         "transcription": "sumē",
@@ -8444,7 +9518,9 @@
             "ē"
         ],
         "structure": "CVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "sumē",
+        "morpheme_suffix": null
     },
     {
         "transcription": "suraš",
@@ -8458,7 +9534,9 @@
             "š"
         ],
         "structure": "CVCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "sur",
+        "morpheme_suffix": "aš"
     },
     {
         "transcription": "šabburni",
@@ -8475,7 +9553,9 @@
             "i"
         ],
         "structure": "CVCCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "šabbur",
+        "morpheme_suffix": "ni"
     },
     {
         "transcription": "šaddagmi",
@@ -8492,7 +9572,9 @@
             "i"
         ],
         "structure": "CVCCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "šaddagmi",
+        "morpheme_suffix": null
     },
     {
         "transcription": "šad-indar",
@@ -8509,7 +9591,9 @@
             "r"
         ],
         "structure": "CVCVCCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "šad-ind",
+        "morpheme_suffix": "ar"
     },
     {
         "transcription": "šad-mašḫu",
@@ -8526,7 +9610,9 @@
             "u"
         ],
         "structure": "CVCCVC0V",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "šad-m",
+        "morpheme_suffix": "ašḫu"
     },
     {
         "transcription": "šadmezi-bugaš",
@@ -8551,7 +9637,11 @@
             "Bugaš"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Šadmezi"
+        "isolated_stem": "Šadmezi",
+        "root": "Šadmez",
+        "suffix": "i",
+        "morpheme_root": "šadmezi-b",
+        "morpheme_suffix": "ugaš"
     },
     {
         "transcription": "šagarā",
@@ -8566,7 +9656,9 @@
             "ā"
         ],
         "structure": "CVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "šagarā",
+        "morpheme_suffix": null
     },
     {
         "transcription": "šagarkte",
@@ -8583,7 +9675,9 @@
             "e"
         ],
         "structure": "CVCVCCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "šagark",
+        "morpheme_suffix": "te"
     },
     {
         "transcription": "šagarakti-enlil",
@@ -8610,7 +9704,11 @@
             "enlil"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Šagarakti"
+        "isolated_stem": "Šagarakti",
+        "root": "Šagarakt",
+        "suffix": "i",
+        "morpheme_root": "šagarakti-e",
+        "morpheme_suffix": "nlil"
     },
     {
         "transcription": "šagarakti-saḫ",
@@ -8632,11 +9730,15 @@
         ],
         "structure": "CVCVCVCCVCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Šagarakti"
+        "isolated_stem": "Šagarakti",
+        "root": "Šagarakt",
+        "suffix": "i",
+        "morpheme_root": "šagarakti",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "šagarakti-suriyaš",
@@ -8661,7 +9763,9 @@
             "š"
         ],
         "structure": "CVCVCVCCVCVCVVVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "šagarakti-sur",
+        "morpheme_suffix": "iyaš"
     },
     {
         "transcription": "šagaraktu",
@@ -8679,7 +9783,9 @@
             "u"
         ],
         "structure": "CVCVCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "šagarak",
+        "morpheme_suffix": "tu"
     },
     {
         "transcription": "šagarakti",
@@ -8697,7 +9803,9 @@
             "i"
         ],
         "structure": "CVCVCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "šagar",
+        "morpheme_suffix": "akti"
     },
     {
         "transcription": "šandamme",
@@ -8714,7 +9822,9 @@
             "e"
         ],
         "structure": "CVCCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "šandam",
+        "morpheme_suffix": "me"
     },
     {
         "transcription": "šara-zana",
@@ -8731,7 +9841,9 @@
             "a"
         ],
         "structure": "CVCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "šara-",
+        "morpheme_suffix": "zana"
     },
     {
         "transcription": "šari-zana",
@@ -8748,7 +9860,9 @@
             "a"
         ],
         "structure": "CVCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "šari-",
+        "morpheme_suffix": "zana"
     },
     {
         "transcription": "šati-galdu",
@@ -8766,7 +9880,9 @@
             "u"
         ],
         "structure": "CVCVCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "šati-gal",
+        "morpheme_suffix": "du"
     },
     {
         "transcription": "šen-saḫ",
@@ -8782,11 +9898,15 @@
         ],
         "structure": "CVCCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Šen"
+        "isolated_stem": "Šen",
+        "root": "Šen",
+        "suffix": "",
+        "morpheme_root": "šen",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "šian-saḫ",
@@ -8803,11 +9923,15 @@
         ],
         "structure": "CVVCCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Šian"
+        "isolated_stem": "Šian",
+        "root": "Šian",
+        "suffix": "",
+        "morpheme_root": "šian",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "šien-saḫ",
@@ -8824,11 +9948,15 @@
         ],
         "structure": "CVVCCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Šien"
+        "isolated_stem": "Šien",
+        "root": "Šien",
+        "suffix": "",
+        "morpheme_root": "šien",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "šilab-saḫ",
@@ -8846,11 +9974,15 @@
         ],
         "structure": "CVCVCCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Šilab"
+        "isolated_stem": "Šilab",
+        "root": "Šilab",
+        "suffix": "",
+        "morpheme_root": "šilab",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "šili",
@@ -8863,7 +9995,9 @@
             "i"
         ],
         "structure": "CVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "ši",
+        "morpheme_suffix": "li"
     },
     {
         "transcription": "šiliya",
@@ -8878,7 +10012,9 @@
             "a"
         ],
         "structure": "CVCVVV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "šil",
+        "morpheme_suffix": "iya"
     },
     {
         "transcription": "šimdi-buriyaš",
@@ -8903,7 +10039,11 @@
             "buriyaš"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Šimdi"
+        "isolated_stem": "Šimdi",
+        "root": "Šimd",
+        "suffix": "i",
+        "morpheme_root": "šimdi-bur",
+        "morpheme_suffix": "iyaš"
     },
     {
         "transcription": "šimdi-šiḫu",
@@ -8921,7 +10061,9 @@
             "u"
         ],
         "structure": "CVCCVCV0V",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "šimdi-",
+        "morpheme_suffix": "šiḫu"
     },
     {
         "transcription": "šimdi-šuqamuna",
@@ -8943,7 +10085,9 @@
             "a"
         ],
         "structure": "CVCCVCVCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "šimdi-šuqa",
+        "morpheme_suffix": "muna"
     },
     {
         "transcription": "šimdi-ubriyaš",
@@ -8964,7 +10108,9 @@
             "š"
         ],
         "structure": "CVCCVVCCVVVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "šimdi-ubr",
+        "morpheme_suffix": "iyaš"
     },
     {
         "transcription": "šindi-buriyaš",
@@ -8989,7 +10135,11 @@
             "buriyaš"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Šindi"
+        "isolated_stem": "Šindi",
+        "root": "Šind",
+        "suffix": "i",
+        "morpheme_root": "šindi-bur",
+        "morpheme_suffix": "iyaš"
     },
     {
         "transcription": "šindi-enlil",
@@ -9012,7 +10162,11 @@
             "enlil"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Šindi"
+        "isolated_stem": "Šindi",
+        "root": "Šind",
+        "suffix": "i",
+        "morpheme_root": "šindi-e",
+        "morpheme_suffix": "nlil"
     },
     {
         "transcription": "šindi-šiḫu",
@@ -9030,7 +10184,9 @@
             "u"
         ],
         "structure": "CVCCVCV0V",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "šindi-",
+        "morpheme_suffix": "šiḫu"
     },
     {
         "transcription": "šindi-ubriyaš",
@@ -9051,7 +10207,9 @@
             "š"
         ],
         "structure": "CVCCVVCCVVVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "šindi-ubr",
+        "morpheme_suffix": "iyaš"
     },
     {
         "transcription": "šindu-buriyaš",
@@ -9076,7 +10234,11 @@
             "buriyaš"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Šindu"
+        "isolated_stem": "Šindu",
+        "root": "Šind",
+        "suffix": "u",
+        "morpheme_root": "šindu-bur",
+        "morpheme_suffix": "iyaš"
     },
     {
         "transcription": "šinta-buriyaš",
@@ -9101,7 +10263,11 @@
             "buriyaš"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Šinta"
+        "isolated_stem": "Šinta",
+        "root": "Šint",
+        "suffix": "a",
+        "morpheme_root": "šinta-bur",
+        "morpheme_suffix": "iyaš"
     },
     {
         "transcription": "širidu",
@@ -9116,7 +10282,9 @@
             "u"
         ],
         "structure": "CVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "širi",
+        "morpheme_suffix": "du"
     },
     {
         "transcription": "širinda",
@@ -9132,7 +10300,9 @@
             "a"
         ],
         "structure": "CVCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "širin",
+        "morpheme_suffix": "da"
     },
     {
         "transcription": "širišti",
@@ -9148,7 +10318,9 @@
             "i"
         ],
         "structure": "CVCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "širiš",
+        "morpheme_suffix": "ti"
     },
     {
         "transcription": "širišti-enlil",
@@ -9173,7 +10345,11 @@
             "enlil"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Širišti"
+        "isolated_stem": "Širišti",
+        "root": "Širišt",
+        "suffix": "i",
+        "morpheme_root": "širišti-e",
+        "morpheme_suffix": "nlil"
     },
     {
         "transcription": "širišti-šiḫu",
@@ -9193,7 +10369,9 @@
             "u"
         ],
         "structure": "CVCVCCVCV0V",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "širišti-",
+        "morpheme_suffix": "šiḫu"
     },
     {
         "transcription": "šrišti-šuqamuna",
@@ -9216,7 +10394,9 @@
             "a"
         ],
         "structure": "CCVCCVCVCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "šrišti-šuqa",
+        "morpheme_suffix": "muna"
     },
     {
         "transcription": "šrini-saḫ",
@@ -9234,11 +10414,15 @@
         ],
         "structure": "CCVCVCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Šrini"
+        "isolated_stem": "Šrini",
+        "root": "Šrin",
+        "suffix": "i",
+        "morpheme_root": "šrini",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "šualiya",
@@ -9254,7 +10438,9 @@
             "a"
         ],
         "structure": "CVVCVVV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "šual",
+        "morpheme_suffix": "iya"
     },
     {
         "transcription": "šubani-saḫ",
@@ -9273,11 +10459,15 @@
         ],
         "structure": "CVCVCVCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Šubani"
+        "isolated_stem": "Šubani",
+        "root": "Šuban",
+        "suffix": "i",
+        "morpheme_root": "šubani",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "šuhila",
@@ -9292,7 +10482,9 @@
             "a"
         ],
         "structure": "CVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "šuhi",
+        "morpheme_suffix": "la"
     },
     {
         "transcription": "šuḫuli-šugab",
@@ -9317,7 +10509,11 @@
             "Sugab"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Šuḫuli"
+        "isolated_stem": "Šuḫuli",
+        "root": "Šuḫul",
+        "suffix": "i",
+        "morpheme_root": "šuḫuli-š",
+        "morpheme_suffix": "ugab"
     },
     {
         "transcription": "šumaliya",
@@ -9334,7 +10530,9 @@
             "a"
         ],
         "structure": "CVCVCVVV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "šumal",
+        "morpheme_suffix": "iya"
     },
     {
         "transcription": "šupa-ḫali",
@@ -9351,7 +10549,9 @@
             "i"
         ],
         "structure": "CVCV0VCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "šupa-ḫa",
+        "morpheme_suffix": "li"
     },
     {
         "transcription": "šuri-ḫarpa",
@@ -9369,7 +10569,9 @@
             "a"
         ],
         "structure": "CVCV0VCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "šuri-ḫ",
+        "morpheme_suffix": "arpa"
     },
     {
         "transcription": "šuta-ḫali",
@@ -9386,7 +10588,9 @@
             "i"
         ],
         "structure": "CVCV0VCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "šuta-ḫa",
+        "morpheme_suffix": "li"
     },
     {
         "transcription": "šuzigaš",
@@ -9402,7 +10606,9 @@
             "š"
         ],
         "structure": "CVCVCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "šuzi",
+        "morpheme_suffix": "gaš"
     },
     {
         "transcription": "tabašini-saḫ",
@@ -9423,11 +10629,15 @@
         ],
         "structure": "CVCVCVCVCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Tabašini"
+        "isolated_stem": "Tabašini",
+        "root": "Tabašin",
+        "suffix": "i",
+        "morpheme_root": "tabašini",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "takuša-ḫarbe",
@@ -9451,7 +10661,11 @@
             "Harbe"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Takušaḫarbe"
+        "isolated_stem": "Takušaḫarbe",
+        "root": "Takušaḫarb",
+        "suffix": "e",
+        "morpheme_root": "takuša-ḫ",
+        "morpheme_suffix": "arbe"
     },
     {
         "transcription": "tamda-saḫ",
@@ -9469,11 +10683,15 @@
         ],
         "structure": "CVCCVCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Tamda"
+        "isolated_stem": "Tamda",
+        "root": "Tamd",
+        "suffix": "a",
+        "morpheme_root": "tamda",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "tamdi-saḫ",
@@ -9491,11 +10709,15 @@
         ],
         "structure": "CVCCVCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Tamdi"
+        "isolated_stem": "Tamdi",
+        "root": "Tamd",
+        "suffix": "i",
+        "morpheme_root": "tamdi",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "tamta-zina",
@@ -9513,7 +10735,9 @@
             "a"
         ],
         "structure": "CVCCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "tamta-zi",
+        "morpheme_suffix": "na"
     },
     {
         "transcription": "tamti-satran",
@@ -9533,7 +10757,9 @@
             "n"
         ],
         "structure": "CVCCVCVCCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "tamti-sat",
+        "morpheme_suffix": "ran"
     },
     {
         "transcription": "tamti-zina",
@@ -9551,7 +10777,9 @@
             "a"
         ],
         "structure": "CVCCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "tamti-zi",
+        "morpheme_suffix": "na"
     },
     {
         "transcription": "taramdi-saḫ",
@@ -9571,11 +10799,15 @@
         ],
         "structure": "CVCVCCVCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Taramdi"
+        "isolated_stem": "Taramdi",
+        "root": "Taramd",
+        "suffix": "i",
+        "morpheme_root": "taramdi",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "tarma-ḫarbe",
@@ -9598,7 +10830,11 @@
             "Harbe"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Tarmaḫarbe"
+        "isolated_stem": "Tarmaḫarbe",
+        "root": "Tarmaḫarb",
+        "suffix": "e",
+        "morpheme_root": "tarma-ḫ",
+        "morpheme_suffix": "arbe"
     },
     {
         "transcription": "tarwa-saḫ",
@@ -9616,11 +10852,15 @@
         ],
         "structure": "CVCCVCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Tarwa"
+        "isolated_stem": "Tarwa",
+        "root": "Tarw",
+        "suffix": "a",
+        "morpheme_root": "tarwa",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "tiyam-ḫarbe",
@@ -9643,7 +10883,11 @@
             "Harbe"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Tiyamḫarbe"
+        "isolated_stem": "Tiyamḫarbe",
+        "root": "Tiyamḫarb",
+        "suffix": "e",
+        "morpheme_root": "tiyam-ḫ",
+        "morpheme_suffix": "arbe"
     },
     {
         "transcription": "tiyamma-ḫarbe",
@@ -9668,7 +10912,11 @@
             "Harbe"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Tiyammaḫarbe"
+        "isolated_stem": "Tiyammaḫarbe",
+        "root": "Tiyammaḫarb",
+        "suffix": "e",
+        "morpheme_root": "tiyamma-ḫ",
+        "morpheme_suffix": "arbe"
     },
     {
         "transcription": "tiliši-saḫ",
@@ -9687,11 +10935,15 @@
         ],
         "structure": "CVCVCVCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Tiliši"
+        "isolated_stem": "Tiliši",
+        "root": "Tiliš",
+        "suffix": "i",
+        "morpheme_root": "tiliši",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "tipna-mele",
@@ -9709,7 +10961,9 @@
             "e"
         ],
         "structure": "CVCCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "tipna-mele",
+        "morpheme_suffix": null
     },
     {
         "transcription": "tipnušur",
@@ -9726,7 +10980,9 @@
             "r"
         ],
         "structure": "CVCCVCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "tipnušur",
+        "morpheme_suffix": null
     },
     {
         "transcription": "tiptakzi",
@@ -9743,7 +10999,9 @@
             "i"
         ],
         "structure": "CVCCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "tiptak",
+        "morpheme_suffix": "zi"
     },
     {
         "transcription": "tuni-mašḫu",
@@ -9761,7 +11019,9 @@
             "u"
         ],
         "structure": "CVCVCVC0V",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "tuni-m",
+        "morpheme_suffix": "ašḫu"
     },
     {
         "transcription": "ubrutu",
@@ -9776,7 +11036,9 @@
             "u"
         ],
         "structure": "VCCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "ubru",
+        "morpheme_suffix": "tu"
     },
     {
         "transcription": "udašaš",
@@ -9791,7 +11053,9 @@
             "š"
         ],
         "structure": "VCVCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "udaš",
+        "morpheme_suffix": "aš"
     },
     {
         "transcription": "udda-saḫ",
@@ -9808,11 +11072,15 @@
         ],
         "structure": "VCCVCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Udda"
+        "isolated_stem": "Udda",
+        "root": "Udd",
+        "suffix": "a",
+        "morpheme_root": "udda",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "uddi-saḫ",
@@ -9829,11 +11097,15 @@
         ],
         "structure": "VCCVCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Uddi"
+        "isolated_stem": "Uddi",
+        "root": "Udd",
+        "suffix": "i",
+        "morpheme_root": "uddi",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "uttazzina",
@@ -9851,7 +11123,9 @@
             "a"
         ],
         "structure": "VCCVCCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "uttazzi",
+        "morpheme_suffix": "na"
     },
     {
         "transcription": "utti-KA.DI",
@@ -9869,7 +11143,9 @@
             "i"
         ],
         "structure": "VCCVCV0CV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "utti-KA.",
+        "morpheme_suffix": "di"
     },
     {
         "transcription": "uttizana",
@@ -9886,7 +11162,9 @@
             "a"
         ],
         "structure": "VCCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "utti",
+        "morpheme_suffix": "zana"
     },
     {
         "transcription": "uggiea",
@@ -9901,7 +11179,9 @@
             "a"
         ],
         "structure": "VCCVVV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "uggiea",
+        "morpheme_suffix": null
     },
     {
         "transcription": "Ugni-saḫ",
@@ -9918,11 +11198,15 @@
         ],
         "structure": "VCCVCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Ugni"
+        "isolated_stem": "Ugni",
+        "root": "Ugn",
+        "suffix": "i",
+        "morpheme_root": "Ugni",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "ugišiya-saḫ",
@@ -9942,11 +11226,15 @@
         ],
         "structure": "VCVCVVVCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Ugišiya"
+        "isolated_stem": "Ugišiya",
+        "root": "Ugišiy",
+        "suffix": "a",
+        "morpheme_root": "ugišiya",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "uki-saḫ",
@@ -9962,11 +11250,15 @@
         ],
         "structure": "VCVCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Uki"
+        "isolated_stem": "Uki",
+        "root": "Uk",
+        "suffix": "i",
+        "morpheme_root": "uki",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "ukin-saḫ",
@@ -9983,11 +11275,15 @@
         ],
         "structure": "VCVCCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Ukin"
+        "isolated_stem": "Ukin",
+        "root": "Ukin",
+        "suffix": "",
+        "morpheme_root": "ukin",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "ula-buriyaš",
@@ -10010,7 +11306,11 @@
             "buriyaš"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Ula"
+        "isolated_stem": "Ula",
+        "root": "Ul",
+        "suffix": "a",
+        "morpheme_root": "ula-bur",
+        "morpheme_suffix": "iyaš"
     },
     {
         "transcription": "ula-gisuk",
@@ -10027,7 +11327,9 @@
             "k"
         ],
         "structure": "VCVCVCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "ula-gis",
+        "morpheme_suffix": "uk"
     },
     {
         "transcription": "ulam-buriyaš",
@@ -10051,7 +11353,11 @@
             "buriyaš"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Ulam"
+        "isolated_stem": "Ulam",
+        "root": "Ulam",
+        "suffix": "",
+        "morpheme_root": "ulam-bur",
+        "morpheme_suffix": "iyaš"
     },
     {
         "transcription": "ulam-ḫala",
@@ -10072,7 +11378,11 @@
             "Hala"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Ulamḫala"
+        "isolated_stem": "Ulamḫala",
+        "root": "Ulamḫal",
+        "suffix": "a",
+        "morpheme_root": "ulam-ḫ",
+        "morpheme_suffix": "ala"
     },
     {
         "transcription": "ulam-ḫarbe",
@@ -10094,7 +11404,11 @@
             "Harbe"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Ulamḫarbe"
+        "isolated_stem": "Ulamḫarbe",
+        "root": "Ulamḫarb",
+        "suffix": "e",
+        "morpheme_root": "ulam-ḫ",
+        "morpheme_suffix": "arbe"
     },
     {
         "transcription": "ula-saḫ",
@@ -10110,11 +11424,15 @@
         ],
         "structure": "VCVCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Ula"
+        "isolated_stem": "Ula",
+        "root": "Ul",
+        "suffix": "a",
+        "morpheme_root": "ula",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "ulan-šikme",
@@ -10132,7 +11450,9 @@
             "e"
         ],
         "structure": "VCVCCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "ulan-šik",
+        "morpheme_suffix": "me"
     },
     {
         "transcription": "ula-zana",
@@ -10148,7 +11468,9 @@
             "a"
         ],
         "structure": "VCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "ula-",
+        "morpheme_suffix": "zana"
     },
     {
         "transcription": "uni-saḫ",
@@ -10164,11 +11486,15 @@
         ],
         "structure": "VCVCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Uni"
+        "isolated_stem": "Uni",
+        "root": "Un",
+        "suffix": "i",
+        "morpheme_root": "uni",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "urban-saḫ",
@@ -10186,11 +11512,15 @@
         ],
         "structure": "VCCVCCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Urban"
+        "isolated_stem": "Urban",
+        "root": "Urban",
+        "suffix": "",
+        "morpheme_root": "urban",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "urpan-buriyaš",
@@ -10215,7 +11545,11 @@
             "buriyaš"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Urpan"
+        "isolated_stem": "Urpan",
+        "root": "Urpan",
+        "suffix": "",
+        "morpheme_root": "urpan-bur",
+        "morpheme_suffix": "iyaš"
     },
     {
         "transcription": "urpaea",
@@ -10230,7 +11564,9 @@
             "a"
         ],
         "structure": "VCCVVV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "urpaea",
+        "morpheme_suffix": null
     },
     {
         "transcription": "urpa-marduk",
@@ -10249,7 +11585,9 @@
             "k"
         ],
         "structure": "VCCVCVCCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "urpa-ma",
+        "morpheme_suffix": "rduk"
     },
     {
         "transcription": "urpa-nibi",
@@ -10266,7 +11604,9 @@
             "i"
         ],
         "structure": "VCCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "urpa-n",
+        "morpheme_suffix": "ibi"
     },
     {
         "transcription": "urpaši-mašḫu",
@@ -10286,7 +11626,9 @@
             "u"
         ],
         "structure": "VCCVCVCVC0V",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "urpaši-m",
+        "morpheme_suffix": "ašḫu"
     },
     {
         "transcription": "uršigurumaš",
@@ -10306,7 +11648,9 @@
             "š"
         ],
         "structure": "VCCVCVCVCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "uršiguru",
+        "morpheme_suffix": "maš"
     },
     {
         "transcription": "urzi-buriyaš",
@@ -10330,7 +11674,11 @@
             "buriyaš"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Urzi"
+        "isolated_stem": "Urzi",
+        "root": "Urz",
+        "suffix": "i",
+        "morpheme_root": "urzi-bur",
+        "morpheme_suffix": "iyaš"
     },
     {
         "transcription": "urzigurumaš",
@@ -10350,7 +11698,9 @@
             "š"
         ],
         "structure": "VCCVCVCVCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "urziguru",
+        "morpheme_suffix": "maš"
     },
     {
         "transcription": "usibi-enlil",
@@ -10373,7 +11723,11 @@
             "enlil"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Usibi"
+        "isolated_stem": "Usibi",
+        "root": "Usib",
+        "suffix": "i",
+        "morpheme_root": "usibi-e",
+        "morpheme_suffix": "nlil"
     },
     {
         "transcription": "usub-šiḫu",
@@ -10390,7 +11744,9 @@
             "u"
         ],
         "structure": "VCVCCV0V",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "usub-",
+        "morpheme_suffix": "šiḫu"
     },
     {
         "transcription": "ueš-ḫala",
@@ -10410,7 +11766,11 @@
             "Hala"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Uešḫala"
+        "isolated_stem": "Uešḫala",
+        "root": "Uešḫal",
+        "suffix": "a",
+        "morpheme_root": "ueš-ḫ",
+        "morpheme_suffix": "ala"
     },
     {
         "transcription": "ušbi-saḫ",
@@ -10427,11 +11787,15 @@
         ],
         "structure": "VCCVCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Ušbi"
+        "isolated_stem": "Ušbi",
+        "root": "Ušb",
+        "suffix": "i",
+        "morpheme_root": "ušbi",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "ušbula",
@@ -10446,7 +11810,9 @@
             "a"
         ],
         "structure": "VCCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "ušb",
+        "morpheme_suffix": "ula"
     },
     {
         "transcription": "ušpi-saḫ",
@@ -10463,11 +11829,15 @@
         ],
         "structure": "VCCVCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Ušpi"
+        "isolated_stem": "Ušpi",
+        "root": "Ušp",
+        "suffix": "i",
+        "morpheme_root": "ušpi",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "ušši",
@@ -10480,7 +11850,9 @@
             "i"
         ],
         "structure": "VCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "ušši",
+        "morpheme_suffix": null
     },
     {
         "transcription": "uziba",
@@ -10494,7 +11866,9 @@
             "a"
         ],
         "structure": "VCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "uziba",
+        "morpheme_suffix": null
     },
     {
         "transcription": "uzi-BAR-šugab",
@@ -10519,7 +11893,11 @@
             "Sugab"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Uzibar"
+        "isolated_stem": "Uzibar",
+        "root": "Uzibar",
+        "suffix": "",
+        "morpheme_root": "uzi-BAR-š",
+        "morpheme_suffix": "ugab"
     },
     {
         "transcription": "uzibi",
@@ -10533,7 +11911,9 @@
             "i"
         ],
         "structure": "VCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "uz",
+        "morpheme_suffix": "ibi"
     },
     {
         "transcription": "uzibya",
@@ -10548,7 +11928,9 @@
             "a"
         ],
         "structure": "VCVCVV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "uzib",
+        "morpheme_suffix": "ya"
     },
     {
         "transcription": "uzib-enlil",
@@ -10570,7 +11952,11 @@
             "enlil"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Uzib"
+        "isolated_stem": "Uzib",
+        "root": "Uzib",
+        "suffix": "",
+        "morpheme_root": "uzib-e",
+        "morpheme_suffix": "nlil"
     },
     {
         "transcription": "uzib-šiḫu",
@@ -10587,7 +11973,9 @@
             "u"
         ],
         "structure": "VCVCCV0V",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "uzib-",
+        "morpheme_suffix": "šiḫu"
     },
     {
         "transcription": "uzibu",
@@ -10601,7 +11989,9 @@
             "u"
         ],
         "structure": "VCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "uz",
+        "morpheme_suffix": "ibu"
     },
     {
         "transcription": "uzi-buriyaš",
@@ -10624,7 +12014,11 @@
             "buriyaš"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Uzi"
+        "isolated_stem": "Uzi",
+        "root": "Uz",
+        "suffix": "i",
+        "morpheme_root": "uzi-bur",
+        "morpheme_suffix": "iyaš"
     },
     {
         "transcription": "uziya",
@@ -10638,7 +12032,9 @@
             "a"
         ],
         "structure": "VCVVV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "uz",
+        "morpheme_suffix": "iya"
     },
     {
         "transcription": "uziyašu",
@@ -10654,7 +12050,9 @@
             "u"
         ],
         "structure": "VCVVVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "uziy",
+        "morpheme_suffix": "ašu"
     },
     {
         "transcription": "zikte-bugašu",
@@ -10679,7 +12077,11 @@
             "Bugaš"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Zikte"
+        "isolated_stem": "Zikte",
+        "root": "Zikt",
+        "suffix": "e",
+        "morpheme_root": "zikte-bug",
+        "morpheme_suffix": "ašu"
     },
     {
         "transcription": "ziwir-galtum",
@@ -10699,7 +12101,9 @@
             "m"
         ],
         "structure": "CVCVCCVCCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "ziwir-galt",
+        "morpheme_suffix": "um"
     },
     {
         "transcription": "albadi-saḫ",
@@ -10718,11 +12122,15 @@
         ],
         "structure": "VCCVCVCV0",
         "detected_gods": [
-            "Sah",
-            "saḫ"
+            "saḫ",
+            "Sah"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Albadi"
+        "isolated_stem": "Albadi",
+        "root": "Albad",
+        "suffix": "i",
+        "morpheme_root": "albadi",
+        "morpheme_suffix": "-saḫ"
     },
     {
         "transcription": "burra-ištaran",
@@ -10743,7 +12151,9 @@
             "n"
         ],
         "structure": "CVCCVVCCVCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "burra-išta",
+        "morpheme_suffix": "ran"
     },
     {
         "transcription": "Hah-Sugab",
@@ -10765,7 +12175,11 @@
             "Sugab"
         ],
         "god_position": "Ende/Mitte",
-        "isolated_stem": "Hah"
+        "isolated_stem": "Hah",
+        "root": "Hah",
+        "suffix": "",
+        "morpheme_root": "Hah-S",
+        "morpheme_suffix": "ugab"
     },
     {
         "transcription": "Hudi-jazi",
@@ -10782,7 +12196,9 @@
             "i"
         ],
         "structure": "CVCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Hudi-ja",
+        "morpheme_suffix": "zi"
     },
     {
         "transcription": "Sadda-gan-im-ti",
@@ -10803,7 +12219,9 @@
             "i"
         ],
         "structure": "CVCCVCVCVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "Sadda-gan-im-",
+        "morpheme_suffix": "ti"
     },
     {
         "transcription": "šad-iabuti",
@@ -10821,7 +12239,9 @@
             "i"
         ],
         "structure": "CVCVVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "šad-iabu",
+        "morpheme_suffix": "ti"
     },
     {
         "transcription": "ša-inbu",
@@ -10836,7 +12256,9 @@
             "u"
         ],
         "structure": "CVVCCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "ša-in",
+        "morpheme_suffix": "bu"
     },
     {
         "transcription": "ula-gindar",
@@ -10854,7 +12276,9 @@
             "r"
         ],
         "structure": "VCVCVCCVC",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "ula-gind",
+        "morpheme_suffix": "ar"
     },
     {
         "transcription": "tarma-abu",
@@ -10871,7 +12295,9 @@
             "u"
         ],
         "structure": "CVCCVVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "tarma-",
+        "morpheme_suffix": "abu"
     },
     {
         "transcription": "tarma-ḫudin-abu",
@@ -10893,6 +12319,8 @@
             "u"
         ],
         "structure": "CVCCV0VCVCVCV",
-        "isolated_stem": null
+        "isolated_stem": null,
+        "morpheme_root": "tarma-ḫudin-",
+        "morpheme_suffix": "abu"
     }
 ]

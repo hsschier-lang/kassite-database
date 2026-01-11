@@ -1,4 +1,5 @@
 import re
+from collections import Counter
 def analyze_theophoric_elements(data, gods_list):
     """
     Untersucht eine Liste von Namen auf Götter-Elemente.
@@ -186,3 +187,45 @@ def plot_phonetic_distribution(data_dict, title, filename):
     plt.tight_layout()
     plt.savefig(f"output/{filename}.png")
     plt.close()
+    
+def discover_suffixes(names_list, min_length=2, max_length=4):
+    """
+    Findet automatisch die häufigsten Wortendungen in einer Liste von Namen.
+    """
+    all_endings = []
+    for name in names_list:
+        if not name or len(name) < 5: continue
+        
+        for n in range(min_length, max_length + 1):
+            ending = name[-n:].lower()
+            all_endings.append(ending)
+    return Counter(all_endings)
+
+def split_kassite_morphemes(name, custom_suffixes=None):
+    """
+    Zerlegt einen Namen in Wurzel und Suffix basierend auf einer Liste von Kandidaten.
+    Verwendet das 'Longest Match'-Prinzip (längste Suffixe zuerst).
+    """
+    if not name or len(name) < 4:
+        
+        return name, None
+    
+    
+    if custom_suffixes is None:
+        suffixes = ['aš', 'iaš', 'ak', 'i', 'a', 'u']
+    else:
+        suffixes = custom_suffixes
+    
+    
+    suffixes = sorted(suffixes, key=len, reverse=True)
+    
+    name_low = name.lower()
+    
+    for suff in suffixes:
+        
+        if name_low.endswith(suff.lower()):
+            root = name[:-len(suff)]  
+            return root, suff
+            
+    
+    return name, None
